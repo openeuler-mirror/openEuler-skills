@@ -73,7 +73,10 @@ skills:
 enterprise/<企业>/
 ├── skill.yaml                    # 贡献者配置
 └── <skill-name>/                 # Skill 目录
-    └── SKILL.md                  # Skill 原文件
+    ├── SKILL.md                  # Skill 原文件（必填，文件名大小写敏感）
+    ├── references/               # 可选：参考文档
+    ├── scripts/                  # 可选：可执行脚本
+    └── assets/                   # 可选：其他资源文件
 
 community/<sig>/
 ├── skill.yaml
@@ -85,6 +88,12 @@ personal/<作者>/
 └── <skill-name>/
     └── SKILL.md
 ```
+
+`SKILL.md` 的编写规范（frontmatter 字段、必填要求、分类取值等）见 [skill-spec.md](skill-spec.md)。要点：
+
+- `SKILL.md` 由 YAML frontmatter（元数据）+ Markdown 正文（指令）组成。
+- frontmatter 中 `name`、`description` 必填（缺失或类型不是 string 会被扫描器跳过）；`category` 建议填写，取值见下方分类。
+- 文件名必须是 `SKILL.md`（大小写敏感，`skill.md`、`Skill.md` 均无效）。
 
 ### 分类
 
