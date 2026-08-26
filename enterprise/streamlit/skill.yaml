@@ -1,0 +1,13 @@
+organization: streamlit
+organization_info:
+  display_name: Streamlit
+  github_profile: https://github.com/streamlit
+  website: https://streamlit.io
+  description: A faster way to build and share data apps.
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/streamlit/agent-skills
+- url: https://github.com/streamlit/streamlit
+skills: []

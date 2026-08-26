@@ -1,0 +1,13 @@
+organization: wix
+organization_info:
+  display_name: Wix.com
+  github_profile: https://github.com/wix
+  website: http://wix.engineering
+  description: Open-sourcing useful pieces of code
+  public_email: null
+  location: Tel Aviv, Be'er Sheva, Haifa, Vilnius, Kyiv, Dnipro, New York, San Francisco, Miami, Los Angeles, Phoenix, Denver, Berlin, Sao Paulo, Vancouver, Dublin, Tokyo
+author: []
+skill_repos:
+- url: https://github.com/wix/skills
+- url: https://github.com/wix/react-native-navigation
+skills: []

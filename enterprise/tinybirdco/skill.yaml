@@ -1,0 +1,12 @@
+organization: tinybirdco
+organization_info:
+  display_name: Tinybird
+  github_profile: https://github.com/tinybirdco
+  website: https://tinybird.co
+  description: null
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/tinybirdco/tinybird-agent-skills
+skills: []

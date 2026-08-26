@@ -1,0 +1,13 @@
+organization: apollographql
+organization_info:
+  display_name: Apollo GraphQL
+  github_profile: https://github.com/apollographql
+  website: https://apollographql.com
+  description: A community building flexible open source tools for GraphQL.
+  public_email: null
+  location: San Francisco, CA
+author: []
+skill_repos:
+- url: https://github.com/apollographql/skills
+- url: https://github.com/apollographql/apollo-client
+skills: []

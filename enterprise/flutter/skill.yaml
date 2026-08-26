@@ -1,0 +1,14 @@
+organization: flutter
+organization_info:
+  display_name: Flutter
+  github_profile: https://github.com/flutter
+  website: https://flutter.dev
+  description: Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/flutter/skills
+- url: https://github.com/flutter/flutter
+- url: https://github.com/flutter/genui
+skills: []

@@ -1,0 +1,12 @@
+organization: pinecone-io
+organization_info:
+  display_name: Pinecone
+  github_profile: https://github.com/pinecone-io
+  website: https://www.pinecone.io
+  description: The vector database for machine learning applications. Build vector-based personalization, ranking, and search systems that are accurate, fast, and scalable.
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/pinecone-io/skills
+skills: []

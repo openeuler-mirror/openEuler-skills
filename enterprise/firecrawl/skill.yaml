@@ -1,0 +1,24 @@
+organization: firecrawl
+organization_info:
+  display_name: Firecrawl
+  github_profile: https://github.com/firecrawl
+  website: https://firecrawl.dev
+  description: Web data API for AI
+  public_email: hello@firecrawl.dev
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/firecrawl/cli
+- url: https://github.com/firecrawl/firecrawl-workflows
+- url: https://github.com/firecrawl/skills
+- url: https://github.com/firecrawl/ai-research-skills
+- url: https://github.com/firecrawl/firecrawl-claude-plugin
+- url: https://github.com/firecrawl/agent-skills
+- url: https://github.com/firecrawl/firecrawl-cli
+- url: https://github.com/firecrawl/openclaw
+- url: https://github.com/firecrawl/openai-skills
+- url: https://github.com/firecrawl/firecrawl-agent
+- url: https://github.com/firecrawl/opencode-firecrawl
+- url: https://github.com/firecrawl/agent
+- url: https://github.com/firecrawl/firecrawl-cursor-plugin
+skills: []

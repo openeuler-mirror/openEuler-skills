@@ -1,0 +1,71 @@
+organization: microsoft
+organization_info:
+  display_name: Microsoft
+  github_profile: https://github.com/microsoft
+  website: https://opensource.microsoft.com
+  description: Open source projects and samples from Microsoft
+  public_email: opensource@microsoft.com
+  location: Redmond, WA
+author: []
+skill_repos:
+- url: https://github.com/microsoft/azure-skills
+- url: https://github.com/microsoft/playwright-cli
+- url: https://github.com/microsoft/vscode
+- url: https://github.com/microsoft/playwright
+- url: https://github.com/microsoft/power-platform-skills
+- url: https://github.com/microsoft/skills-for-fabric
+- url: https://github.com/microsoft/hve-core
+- url: https://github.com/microsoft/skills
+- url: https://github.com/microsoft/agent-framework
+- url: https://github.com/microsoft/dataverse-skills
+- url: https://github.com/microsoft/win-dev-skills
+- url: https://github.com/microsoft/aspire-skills
+- url: https://github.com/microsoft/azure-devops-skills
+- url: https://github.com/microsoft/eval-guide
+- url: https://github.com/microsoft/fabric-cli
+- url: https://github.com/microsoft/skills-for-copilot-studio
+- url: https://github.com/microsoft/webwright
+- url: https://github.com/microsoft/work-iq
+- url: https://github.com/microsoft/powertoys
+- url: https://github.com/microsoft/apm
+- url: https://github.com/microsoft/vscode-copilot-chat
+- url: https://github.com/microsoft/ai-agents-for-beginners
+- url: https://github.com/microsoft/debugpy
+- url: https://github.com/microsoft/aspire
+- url: https://github.com/microsoft/semantic-link-labs
+- url: https://github.com/microsoft/winappcli
+- url: https://github.com/microsoft/agent-skills
+- url: https://github.com/microsoft/vscode-cosmosdb
+- url: https://github.com/microsoft/fabric-skills
+- url: https://github.com/microsoft/vscode-docs
+- url: https://github.com/microsoft/teams-sdk
+- url: https://github.com/microsoft/rushstack
+- url: https://github.com/microsoft/agent365-devtools
+- url: https://github.com/microsoft/waza
+- url: https://github.com/microsoft/fluidframework
+- url: https://github.com/microsoft/entra-pocadvisor
+- url: https://github.com/microsoft/onnxruntime
+- url: https://github.com/microsoft/caira
+- url: https://github.com/microsoft/vibe-kit
+- url: https://github.com/microsoft/skillopt
+- url: https://github.com/microsoft/foundry-ai-solution-templates-creation
+- url: https://github.com/microsoft/playwright-python
+- url: https://github.com/microsoft/fabric-apps-analytic-templates
+- url: https://github.com/microsoft/vscode-pull-request-github
+- url: https://github.com/microsoft/data-formulator
+- url: https://github.com/microsoft/power-cat-skills
+- url: https://github.com/microsoft/build-cli
+- url: https://github.com/microsoft/powerplatform-dataverseclient-python
+- url: https://github.com/microsoft/synapseml
+- url: https://github.com/microsoft/agent-governance-toolkit
+- url: https://github.com/microsoft/microsoft-ui-reactor
+- url: https://github.com/microsoft/openclaw-dev
+- url: https://github.com/microsoft/ebpf-for-windows
+- url: https://github.com/microsoft/vscode-chat-customizations-evaluation
+- url: https://github.com/microsoft/vcpkg
+- url: https://github.com/microsoft/openvmm
+- url: https://github.com/microsoft/powerplatform-build-tools
+- url: https://github.com/microsoft/testfx
+- url: https://github.com/microsoft/githubcopilot_customized
+- url: https://github.com/microsoft/pg_durable
+skills: []

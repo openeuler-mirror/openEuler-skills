@@ -1,0 +1,12 @@
+organization: whopio
+organization_info:
+  display_name: Whop
+  github_profile: https://github.com/whopio
+  website: https://whop.com
+  description: Where you buy, build, and sell things on the internet
+  public_email: hello@whop.com
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/whopio/whop-payments-network-skill
+skills: []

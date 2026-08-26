@@ -1,0 +1,14 @@
+organization: coderabbitai
+organization_info:
+  display_name: CodeRabbit
+  github_profile: https://github.com/coderabbitai
+  website: https://www.coderabbit.ai/?utm_source=cr_org&utm_medium=github
+  description: AI-powered platform revolutionizing code reviews
+  public_email: support@coderabbit.ai
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/coderabbitai/skills
+- url: https://github.com/coderabbitai/claude-plugin
+- url: https://github.com/coderabbitai/codex-plugin
+skills: []

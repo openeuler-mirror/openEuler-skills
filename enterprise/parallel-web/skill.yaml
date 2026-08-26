@@ -1,0 +1,13 @@
+organization: parallel-web
+organization_info:
+  display_name: Parallel Web Systems - Public
+  github_profile: https://github.com/parallel-web
+  website: https://parallel.ai
+  description: null
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/parallel-web/parallel-agent-skills
+- url: https://github.com/parallel-web/parallel-cursor-plugin
+skills: []

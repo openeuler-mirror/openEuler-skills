@@ -1,0 +1,4 @@
+name: sig-CloudNative
+description: CloudNative SIG is committed to providing a convenient and easy-to-use cloud native infrastructure for users, developers, and enthusiasts, providing a simple and efficient cloud native application development hosting environment to build cloud native ecology.
+skill_repos:
+- url: https://gitcode.com/openeuler/openeuler-docker-images

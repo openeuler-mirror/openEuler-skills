@@ -1,0 +1,31 @@
+organization: getsentry
+organization_info:
+  display_name: Sentry
+  github_profile: https://github.com/getsentry
+  website: https://sentry.io
+  description: Real-time crash reporting for your web apps, mobile apps, and games.
+  public_email: support@sentry.io
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/getsentry/skills
+- url: https://github.com/getsentry/sentry-for-ai
+- url: https://github.com/getsentry/sentry-agent-skills
+- url: https://github.com/getsentry/sentry-for-claude
+- url: https://github.com/getsentry/sentry
+- url: https://github.com/getsentry/sentry-skills
+- url: https://github.com/getsentry/agent-skills
+- url: https://github.com/getsentry/warden
+- url: https://github.com/getsentry/xcodebuildmcp
+- url: https://github.com/getsentry/cli
+- url: https://github.com/getsentry/sentry-javascript
+- url: https://github.com/getsentry/sentry-python
+- url: https://github.com/getsentry/webvitals.com
+- url: https://github.com/getsentry/dotagents
+- url: https://github.com/getsentry/sentry-mcp
+- url: https://github.com/getsentry/sentry-for-cursor
+- url: https://github.com/getsentry/sdk-skills
+- url: https://github.com/getsentry/junior
+- url: https://github.com/getsentry/vitest-evals
+- url: https://github.com/getsentry/sentry-docs
+skills: []

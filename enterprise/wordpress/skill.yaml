@@ -1,0 +1,13 @@
+organization: wordpress
+organization_info:
+  display_name: WordPress
+  github_profile: https://github.com/WordPress
+  website: https://wordpress.org/
+  description: null
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/wordpress/agent-skills
+- url: https://github.com/wordpress/php-mcp-schema
+skills: []

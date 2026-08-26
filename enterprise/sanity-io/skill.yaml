@@ -1,0 +1,18 @@
+organization: sanity-io
+organization_info:
+  display_name: Sanity
+  github_profile: https://github.com/sanity-io
+  website: https://www.sanity.io/
+  description: A fully customizable all-code backend for content-driven websites and apps. Get started for free.
+  public_email: hello@sanity.io
+  location: San Francisco / Oslo
+author: []
+skill_repos:
+- url: https://github.com/sanity-io/agent-toolkit
+- url: https://github.com/sanity-io/agent-context
+- url: https://github.com/sanity-io/next-sanity
+- url: https://github.com/sanity-io/sanity
+- url: https://github.com/sanity-io/context
+- url: https://github.com/sanity-io/claude-plugins-official
+- url: https://github.com/sanity-io/plugins
+skills: []

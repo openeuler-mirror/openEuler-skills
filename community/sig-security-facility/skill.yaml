@@ -1,0 +1,5 @@
+name: sig-security-facility
+description: Sig-security mainly discusses the existing or future planned security technologies in the openEuler community version.
+skill_repos:
+- url: https://gitcode.com/openeuler/sec-select
+- url: https://gitcode.com/openeuler/trustruntime

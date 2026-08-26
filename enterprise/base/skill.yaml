@@ -1,0 +1,13 @@
+organization: base
+organization_info:
+  display_name: Base
+  github_profile: https://github.com/base
+  website: https://base.org
+  description: Base is bringing the world onchain to create a global economy that increases innovation, creativity, and freedom. Built on Ethereum.
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/base/skills
+- url: https://github.com/base/base-skills
+skills: []

@@ -1,0 +1,18 @@
+organization: temporalio
+organization_info:
+  display_name: temporal.io
+  github_profile: https://github.com/temporalio
+  website: https://temporal.io
+  description: Open source durable execution system. Write code that’s fault tolerant, durable, and simple.
+  public_email: null
+  location: Bellevue
+author: []
+skill_repos:
+- url: https://github.com/temporalio/skill-temporal-developer
+- url: https://github.com/temporalio/skill-temporal-cloud
+- url: https://github.com/temporalio/skills-temporal-cloud
+- url: https://github.com/temporalio/agent-skills
+- url: https://github.com/temporalio/skill-temporal-design
+- url: https://github.com/temporalio/cursor-temporal-plugin
+- url: https://github.com/temporalio/claude-temporal-plugin
+skills: []

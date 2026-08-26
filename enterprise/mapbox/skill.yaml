@@ -1,0 +1,13 @@
+organization: mapbox
+organization_info:
+  display_name: Mapbox
+  github_profile: https://github.com/mapbox
+  website: https://www.mapbox.com
+  description: 'Mapbox is the location data platform for mobile and web applications. We''re changing the way people move around cities and explore our world. '
+  public_email: null
+  location: Washington DC
+author: []
+skill_repos:
+- url: https://github.com/mapbox/mapbox-agent-skills
+- url: https://github.com/mapbox/mcp-devkit-server
+skills: []

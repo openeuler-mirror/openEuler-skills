@@ -1,0 +1,51 @@
+organization: vercel-labs
+organization_info:
+  display_name: Vercel Labs
+  github_profile: https://github.com/vercel-labs
+  website: https://vercel.com
+  description: Develop. Preview. Ship. Creators of Next.js.
+  public_email: support@vercel.com
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/vercel-labs/skills
+- url: https://github.com/vercel-labs/agent-skills
+- url: https://github.com/vercel-labs/agent-browser
+- url: https://github.com/vercel-labs/next-skills
+- url: https://github.com/vercel-labs/json-render
+- url: https://github.com/vercel-labs/vercel-plugin
+- url: https://github.com/vercel-labs/portless
+- url: https://github.com/vercel-labs/next-browser
+- url: https://github.com/vercel-labs/ai
+- url: https://github.com/vercel-labs/claude-skills
+- url: https://github.com/vercel-labs/before-and-after
+- url: https://github.com/vercel-labs/emulate
+- url: https://github.com/vercel-labs/agent-eval
+- url: https://github.com/vercel-labs/dev3000
+- url: https://github.com/vercel-labs/open-agents
+- url: https://github.com/vercel-labs/opensrc
+- url: https://github.com/vercel-labs/agentic-commerce-skills
+- url: https://github.com/vercel-labs/slack-agent-skill
+- url: https://github.com/vercel-labs/migration-skills
+- url: https://github.com/vercel-labs/skill-remotion-geist
+- url: https://github.com/vercel-labs/zerolang
+- url: https://github.com/vercel-labs/autoship
+- url: https://github.com/vercel-labs/openreview
+- url: https://github.com/vercel-labs/bash-tool
+- url: https://github.com/vercel-labs/zero
+- url: https://github.com/vercel-labs/sitecore-skills
+- url: https://github.com/vercel-labs/webreel
+- url: https://github.com/vercel-labs/deepsec
+- url: https://github.com/vercel-labs/ai-cli
+- url: https://github.com/vercel-labs/skill-geist-learning-labs
+- url: https://github.com/vercel-labs/py-ai
+- url: https://github.com/vercel-labs/cursor-plugin
+- url: https://github.com/vercel-labs/vercel-deploy-codex-skill
+- url: https://github.com/vercel-labs/academy-skills
+- url: https://github.com/vercel-labs/next-docs-agentic-rag
+- url: https://github.com/vercel-labs/ralph-gpu
+- url: https://github.com/vercel-labs/zero-native
+- url: https://github.com/vercel-labs/sandcastle
+- url: https://github.com/vercel-labs/ai-python
+- url: https://github.com/vercel-labs/tw-blocks
+skills: []

@@ -1,0 +1,14 @@
+organization: launchdarkly
+organization_info:
+  display_name: LaunchDarkly
+  github_profile: https://github.com/launchdarkly
+  website: https://launchdarkly.com
+  description: Fast and reliable feature management for the modern enterprise
+  public_email: support@launchdarkly.com
+  location: Oakland, CA
+author: []
+skill_repos:
+- url: https://github.com/launchdarkly/agent-skills
+- url: https://github.com/launchdarkly/ai-tooling
+- url: https://github.com/launchdarkly/experimental-agent-skills
+skills: []

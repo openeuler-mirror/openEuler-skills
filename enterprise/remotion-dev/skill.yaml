@@ -1,0 +1,15 @@
+organization: remotion-dev
+organization_info:
+  display_name: Remotion
+  github_profile: https://github.com/remotion-dev
+  website: https://remotion.dev
+  description: Make videos programmatically
+  public_email: hi@remotion.dev
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/remotion-dev/skills
+- url: https://github.com/remotion-dev/remotion
+- url: https://github.com/remotion-dev/html-in-canvas
+- url: https://github.com/remotion-dev/codex-plugin
+skills: []

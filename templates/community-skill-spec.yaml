@@ -1,0 +1,49 @@
+# openEuler Community SIG Skill 登记模板
+#
+# 目录结构：
+# community/
+# └── <sig_name>/
+#     ├── skill.yaml                 # 当前模板对应的 SIG 配置文件
+#     └── <skill-name>/              # 可选：单独上传的 Skill 目录
+#         └── SKILL.md
+#
+# 使用方法：
+# 1. 每个 SIG 使用独立目录：community/<sig_name>/skill.yaml。
+# 2. SIG 名称和公开信息应以 openEuler community 仓库中的
+#    `sig/<sig_name>/sig-info.yaml` 为准，不要自行猜测。
+# 3. 官方 SIG 元数据没有提供的字段填写 null。
+# 4. `skill_repos` 用于登记整个仓库，扫描器会扫描仓库内全部 SKILL.md。
+# 5. 单个 Skill 两种登记方式任选其一：上传到当前 SIG 目录下的`<skill-name>/` 中，
+#    或通过 `skills` 登记 SKILL.md 文件 URL；
+# 6. 同一个仓库或 Skill URL 只登记一次。
+# 7. YAML 统一使用 2 个空格缩进，不要使用 Tab。
+#
+# 字段说明：
+# | 一级字段      | 二级字段    | 必填 | 说明                                                                   |
+# | ------------- | ----------- | ---- | -------------------------------------------------------------------- |
+# | name          | -           | 必填 | SIG 显示名称；通常来自 sig-info.yaml 的 name 字段                       |
+# | description   | -           | 可选 | SIG 职责简介；来自 sig-info.yaml 的 description 字段；未提供时填写 null  |
+# | skill_repos[] | -           | 可选 | 仓库级 Skill 登记列表；扫描器会发现仓库内全部符合规范的 SKILL.md          |
+# |               | url         | 必填 | 仓库 URL（skill_repos 非空时必填）                                     |
+# |               | branch      | 可选 | 扫描分支；不填写时使用仓库默认分支                                       |
+# | skills[]      | -           | 可选 | 单个 Skill 登记列表；适用于只登记某个 Skill，而不是扫描整个仓库       |
+# |               | skill_name  | 必填 | Skill 名称（skills 非空时必填）                                     |
+# |               | skill_url   | 必填 | Skill 文件的完整 URL（skills 非空时必填）                           |
+# |               | description | 建议 | Skill 的简要用途说明                                                 |
+# |               | category    | 可选 | Skill 所属分类；取值来自 templates/skill-spec.yaml 的 categories      |
+
+name: sig-example
+
+description: The SIG is responsible for example technologies in openEuler.
+
+# 没有仓库级 Skill 时填写 `skill_repos: []`。
+skill_repos:
+  - url: https://gitcode.com/openeuler/example
+    # branch: master
+
+# 没有单个 Skill 时填写 `skills: []`。
+skills:
+  - skill_name: skill-name
+    skill_url: https://gitcode.com/openeuler/example/blob/main/skills/skill-name/SKILL.md
+    description: 用一句话说明该 Skill 的用途
+    # category: Development and Build

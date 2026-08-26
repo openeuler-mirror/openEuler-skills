@@ -1,0 +1,14 @@
+organization: axiomhq
+organization_info:
+  display_name: Axiom, Inc.
+  github_profile: https://github.com/axiomhq
+  website: https://axiom.co
+  description: Axiom unlocks observability at any scale.
+  public_email: hello@axiom.co
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/axiomhq/skills
+- url: https://github.com/axiomhq/gilfoyle
+- url: https://github.com/axiomhq/cli
+skills: []

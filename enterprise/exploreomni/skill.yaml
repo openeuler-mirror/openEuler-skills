@@ -1,0 +1,14 @@
+organization: exploreomni
+organization_info:
+  display_name: Omni Analytics
+  github_profile: https://github.com/exploreomni
+  website: null
+  description: null
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/exploreomni/omni-agent-skills
+- url: https://github.com/exploreomni/omni-cursor-plugin
+- url: https://github.com/exploreomni/omni-claude-skills
+skills: []

@@ -1,0 +1,13 @@
+organization: contentful
+organization_info:
+  display_name: Contentful
+  github_profile: https://github.com/contentful
+  website: https://www.contentful.com
+  description: The Composable Content Platform ✨ Our API-first technology empowers builders to connect, create, and extend content with ease delivering impactful experiences.
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/contentful/skills
+- url: https://github.com/contentful/skill-kit
+skills: []

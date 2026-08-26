@@ -1,0 +1,27 @@
+organization: nvidia
+organization_info:
+  display_name: NVIDIA Corporation
+  github_profile: https://github.com/NVIDIA
+  website: https://nvidia.com
+  description: null
+  public_email: null
+  location: 2788 San Tomas Expressway, Santa Clara, CA, 95051
+author: []
+skill_repos:
+- url: https://github.com/nvidia/skills
+- url: https://github.com/nvidia/skillspector
+- url: https://github.com/nvidia/openshell
+- url: https://github.com/nvidia/osmo
+- url: https://github.com/nvidia/nemoclaw
+- url: https://github.com/nvidia/cuopt
+- url: https://github.com/nvidia/megatron-lm
+- url: https://github.com/nvidia/tensorrt-llm
+- url: https://github.com/nvidia/nemo-agent-toolkit
+- url: https://github.com/nvidia/nurec-skills
+- url: https://github.com/nvidia/nemo-retriever
+- url: https://github.com/nvidia/cudnn-frontend
+- url: https://github.com/nvidia/nemo-relay
+- url: https://github.com/nvidia/physicsnemo
+- url: https://github.com/nvidia/simready-foundation
+- url: https://github.com/nvidia/dgx-spark-playbooks
+skills: []

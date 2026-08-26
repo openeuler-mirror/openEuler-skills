@@ -1,0 +1,5 @@
+name: sig-YuanRong
+description: sig-YuanRong is responsible for the evolution and maintenance of the Serverless distributed computing engine within the community.
+skill_repos:
+- url: https://gitcode.com/openeuler/yuanrong
+- url: https://gitcode.com/openeuler/yuanrong-datasystem

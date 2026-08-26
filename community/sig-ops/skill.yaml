@@ -1,0 +1,4 @@
+name: sig-ops
+description: The ops team is responsible for the development and maintenance of OS system ops in openeuler community.
+skill_repos:
+- url: https://gitcode.com/openeuler/PilotGo-plugin-llmops
