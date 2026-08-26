@@ -1,0 +1,20 @@
+organization: callstackincubator
+organization_info:
+  display_name: Callstack Incubator
+  github_profile: https://github.com/callstackincubator
+  website: https://callstack.com
+  description: We don't follow best practices, we set them. This is where it happens.
+  public_email: null
+  location: Worldwide
+author: []
+skill_repos:
+- url: https://github.com/callstackincubator/agent-skills
+- url: https://github.com/callstackincubator/agent-device
+- url: https://github.com/callstackincubator/agent-react-devtools
+- url: https://github.com/callstackincubator/rozenite
+- url: https://github.com/callstackincubator/voltra
+- url: https://github.com/callstackincubator/ai
+- url: https://github.com/callstackincubator/react-native-ai
+- url: https://github.com/callstackincubator/react-native-harness
+- url: https://github.com/callstackincubator/cordierite
+skills: []

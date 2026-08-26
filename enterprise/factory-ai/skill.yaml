@@ -1,0 +1,13 @@
+organization: factory-ai
+organization_info:
+  display_name: Factory
+  github_profile: https://github.com/Factory-AI
+  website: https://factory.ai
+  description: The machine that builds the machine.
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/factory-ai/factory-plugins
+- url: https://github.com/factory-ai/skills
+skills: []

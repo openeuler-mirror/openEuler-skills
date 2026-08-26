@@ -1,0 +1,29 @@
+organization: anthropics
+organization_info:
+  display_name: Anthropic
+  github_profile: https://github.com/anthropics
+  website: https://anthropic.com
+  description: null
+  public_email: null
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/anthropics/skills
+- url: https://github.com/anthropics/knowledge-work-plugins
+- url: https://github.com/anthropics/claude-code
+- url: https://github.com/anthropics/claude-plugins-official
+- url: https://github.com/anthropics/financial-services-plugins
+- url: https://github.com/anthropics/claude-for-legal
+- url: https://github.com/anthropics/financial-services
+- url: https://github.com/anthropics/claude-plugins-public
+- url: https://github.com/anthropics/healthcare
+- url: https://github.com/anthropics/claude-agent-sdk-demos
+- url: https://github.com/anthropics/life-sciences
+- url: https://github.com/anthropics/claude-cookbooks
+- url: https://github.com/anthropics/defending-code-reference-harness
+- url: https://github.com/anthropics/anthropic-cookbook
+- url: https://github.com/anthropics/cwc-workshops
+- url: https://github.com/anthropics/cookbook
+- url: https://github.com/anthropics/claude-quickstarts
+- url: https://github.com/anthropics/anthropic-quickstarts
+skills: []

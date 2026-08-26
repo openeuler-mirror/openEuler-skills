@@ -1,0 +1,13 @@
+organization: hashicorp
+organization_info:
+  display_name: HashiCorp
+  github_profile: https://github.com/hashicorp
+  website: https://hashicorp.com
+  description: Consistent workflows to provision, secure, connect, and run any infrastructure for any application.
+  public_email: hello@hashicorp.com
+  location: San Francisco, CA
+author: []
+skill_repos:
+- url: https://github.com/hashicorp/agent-skills
+- url: https://github.com/hashicorp/terraform-agent-kit
+skills: []

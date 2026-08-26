@@ -1,0 +1,21 @@
+organization: cloudflare
+organization_info:
+  display_name: Cloudflare
+  github_profile: https://github.com/cloudflare
+  website: https://www.cloudflare.com
+  description: null
+  public_email: null
+  location: San Francisco, London, Austin, Lisbon, Singapore
+author: []
+skill_repos:
+- url: https://github.com/cloudflare/skills
+- url: https://github.com/cloudflare/vinext
+- url: https://github.com/cloudflare/cloudflare-docs
+- url: https://github.com/cloudflare/workerd
+- url: https://github.com/cloudflare/sandbox-sdk
+- url: https://github.com/cloudflare/chanfana
+- url: https://github.com/cloudflare/kumo
+- url: https://github.com/cloudflare/moltworker
+- url: https://github.com/cloudflare/workers-sdk
+- url: https://github.com/cloudflare/polystella
+skills: []

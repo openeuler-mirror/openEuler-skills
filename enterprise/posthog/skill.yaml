@@ -1,0 +1,17 @@
+organization: posthog
+organization_info:
+  display_name: PostHog
+  github_profile: https://github.com/PostHog
+  website: https://posthog.com
+  description: The single platform to analyze, test, observe, and deploy new features
+  public_email: hey@posthog.com
+  location: San Francisco, California
+author: []
+skill_repos:
+- url: https://github.com/posthog/skills
+- url: https://github.com/posthog/ai-plugin
+- url: https://github.com/posthog/posthog-for-claude
+- url: https://github.com/posthog/context-mill
+- url: https://github.com/posthog/duckgres
+- url: https://github.com/posthog/posthog.com
+skills: []

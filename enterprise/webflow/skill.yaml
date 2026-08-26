@@ -1,0 +1,12 @@
+organization: webflow
+organization_info:
+  display_name: Webflow
+  github_profile: https://github.com/webflow
+  website: https://webflow.com
+  description: Webflow is the way to design, build, and launch powerful websites visually — without coding.
+  public_email: tech@webflow.com
+  location: San Francisco, CA
+author: []
+skill_repos:
+- url: https://github.com/webflow/webflow-skills
+skills: []

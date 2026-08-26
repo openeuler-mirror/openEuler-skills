@@ -1,0 +1,15 @@
+organization: google-gemini
+organization_info:
+  display_name: google-gemini
+  github_profile: https://github.com/google-gemini
+  website: https://ai.google.dev/gemini-api/docs
+  description: Get started building with the Gemini API
+  public_email: null
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/google-gemini/gemini-skills
+- url: https://github.com/google-gemini/gemini-cli
+- url: https://github.com/google-gemini/gemini-skill
+- url: https://github.com/google-gemini/gemini-api-cli
+skills: []

@@ -1,0 +1,20 @@
+organization: openai
+organization_info:
+  display_name: OpenAI
+  github_profile: https://github.com/openai
+  website: https://openai.com/
+  description: null
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/openai/skills
+- url: https://github.com/openai/codex
+- url: https://github.com/openai/openai-agents-python
+- url: https://github.com/openai/codex-plugin-cc
+- url: https://github.com/openai/openai-agents-js
+- url: https://github.com/openai/plugins
+- url: https://github.com/openai/symphony
+- url: https://github.com/openai/openai-cookbook
+- url: https://github.com/openai/role-specific-plugins
+skills: []

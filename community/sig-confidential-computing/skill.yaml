@@ -1,0 +1,4 @@
+name: sig-confidential-computing
+description: The sig for confidential computing technologies.
+skill_repos:
+- url: https://gitcode.com/openeuler/virtCCA_sdk

@@ -1,0 +1,4 @@
+name: sig-UnifiedBus
+description: sig-UnifiedBus is responsible for the evolution and maintenance of the UB OS component in the community.
+skill_repos:
+- url: https://gitcode.com/openeuler/umdk

@@ -1,0 +1,13 @@
+organization: semgrep
+organization_info:
+  display_name: Semgrep
+  github_profile: https://github.com/semgrep
+  website: https://semgrep.dev
+  description: null
+  public_email: hello@semgrep.com
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/semgrep/skills
+- url: https://github.com/semgrep/cursor-plugin
+skills: []

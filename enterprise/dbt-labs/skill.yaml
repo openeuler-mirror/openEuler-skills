@@ -1,0 +1,13 @@
+organization: dbt-labs
+organization_info:
+  display_name: dbt Labs
+  github_profile: https://github.com/dbt-labs
+  website: https://getdbt.com
+  description: dbt helps data teams work like software engineers—to ship trusted data, faster.
+  public_email: support@getdbt.com
+  location: Philadelphia, PA
+author: []
+skill_repos:
+- url: https://github.com/dbt-labs/dbt-agent-skills
+- url: https://github.com/dbt-labs/dbt-mcp
+skills: []

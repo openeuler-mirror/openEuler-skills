@@ -1,0 +1,19 @@
+organization: deepgram
+organization_info:
+  display_name: Deepgram
+  github_profile: https://github.com/deepgram
+  website: https://www.deepgram.com
+  description: null
+  public_email: null
+  location: San Francisco, CA
+author: []
+skill_repos:
+- url: https://github.com/deepgram/skills
+- url: https://github.com/deepgram/deepgram-js-sdk
+- url: https://github.com/deepgram/deepgram-python-sdk
+- url: https://github.com/deepgram/deepclaw
+- url: https://github.com/deepgram/deepgram-go-sdk
+- url: https://github.com/deepgram/deepgram-dotnet-sdk
+- url: https://github.com/deepgram/deepgram-rust-sdk
+- url: https://github.com/deepgram/deepgram-java-sdk
+skills: []

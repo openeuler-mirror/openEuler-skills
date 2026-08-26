@@ -1,0 +1,13 @@
+organization: planetscale
+organization_info:
+  display_name: PlanetScale
+  github_profile: https://github.com/planetscale
+  website: https://planetscale.com
+  description: The fastest and most reliable MySQL and Postgres database platform.
+  public_email: contact@planetscale.com
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/planetscale/database-skills
+- url: https://github.com/planetscale/vscode-agent-plugin
+skills: []

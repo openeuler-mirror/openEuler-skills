@@ -1,0 +1,16 @@
+organization: prisma
+organization_info:
+  display_name: Prisma
+  github_profile: https://github.com/prisma
+  website: https://www.prisma.io
+  description: Prisma makes working with databases easy
+  public_email: hello@prisma.io
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/prisma/skills
+- url: https://github.com/prisma/prisma-next
+- url: https://github.com/prisma/cursor-plugin
+- url: https://github.com/prisma/prisma-cli
+- url: https://github.com/prisma/prisma-plugin
+skills: []

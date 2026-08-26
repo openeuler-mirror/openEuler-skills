@@ -1,0 +1,4 @@
+name: Virt
+description: The virt team is responsible for exploration of the virtualization and cloud native runtime technology.
+skill_repos:
+- url: https://gitcode.com/openeuler/capsule

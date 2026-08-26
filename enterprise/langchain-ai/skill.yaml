@@ -1,0 +1,17 @@
+organization: langchain-ai
+organization_info:
+  display_name: LangChain
+  github_profile: https://github.com/langchain-ai
+  website: https://www.langchain.com
+  description: null
+  public_email: support@langchain.dev
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/langchain-ai/langchain-skills
+- url: https://github.com/langchain-ai/deepagents
+- url: https://github.com/langchain-ai/langsmith-skills
+- url: https://github.com/langchain-ai/skills-benchmarks
+- url: https://github.com/langchain-ai/deepagentsjs
+- url: https://github.com/langchain-ai/lca-skills
+skills: []

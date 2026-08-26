@@ -1,0 +1,13 @@
+organization: tavily-ai
+organization_info:
+  display_name: Tavily AI
+  github_profile: https://github.com/tavily-ai
+  website: https://tavily.com
+  description: Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results
+  public_email: support@tavily.com
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/tavily-ai/skills
+- url: https://github.com/tavily-ai/tavily-cursor-plugin
+skills: []

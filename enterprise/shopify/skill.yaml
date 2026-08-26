@@ -1,0 +1,14 @@
+organization: shopify
+organization_info:
+  display_name: Shopify
+  github_profile: https://github.com/Shopify
+  website: https://shopify.engineering/
+  description: null
+  public_email: engineering@shopify.engineering
+  location: The Internet
+author: []
+skill_repos:
+- url: https://github.com/shopify/shopify-ai-toolkit
+- url: https://github.com/shopify/liquid-skills
+- url: https://github.com/shopify/flash-list
+skills: []

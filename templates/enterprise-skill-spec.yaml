@@ -1,0 +1,63 @@
+# 企业 Skill 登记模板
+#
+# 使用方法：
+# 1. 每个企业使用独立目录：enterprise/<企业名>/skill.yaml。
+# 2. 复制本模板到企业目录，并替换所有示例值。
+# 3. `skill_repos` 用于登记整个仓库；扫描器会发现仓库中的全部 SKILL.md。
+# 4. 单个 Skill 两种登记方式任选其一：上传到当前企业目录下的`<skill-name>/` 中，
+#    或通过 `skills` 登记 SKILL.md 文件 URL；
+# 5. 同一个仓库或 Skill URL 不要重复登记。
+# 6. YAML 统一使用 2 个空格缩进，不要使用 Tab。
+# 7. 无法获取或企业未公开的信息使用 null，不要自行猜测。
+# 8. 不要根据 commit 作者记录推测企业联系人；没有公开的维护联系人时填写 `author: []`。
+#
+# 字段说明：
+# | 一级字段          | 二级字段       | 必填  | 说明                                                            |
+# | ----------------- | -------------- | ----- | ------------------------------------------------------------- |
+# | organization      | -              | 必填  | 企业或组织的唯一标识；建议与 GitHub owner 一致，如 anthropics     |
+# | organization_info | -              | 必填  | 企业公开信息；建议通过 GitHub 公共 API 或企业官网核实后填写        |
+# |                   | display_name   | 必填  | 企业显示名称                                                   |
+# |                   | github_profile | 必填  | GitHub 组织或用户主页                                          |
+# |                   | website        | 可选  | 企业官网；未公开时填写 null                                     |
+# |                   | description    | 可选  | 企业简介；建议使用一到两句话客观描述                             |
+# |                   | public_email   | 可选  | 企业公开联系邮箱；未公开时填写 null                             |
+# |                   | location       | 可选  | 企业或组织所在地；未公开时填写 null                             |
+# | author[]          | -              | 可选  | 联系人信息列表；没有明确公开的维护联系人时填写 `author: []`          |
+# |                   | name           | 必填* | 联系人姓名（author 非空时必填）                                |
+# |                   | email          | 可选  | 联系邮箱；请确认愿意公开后再填写                                |
+# |                   | profile        | 可选  | 联系人主页                                                    |
+# | skill_repos[]     | -              | 可选  | 仓库级 Skill 登记列表；扫描器会发现仓库中全部符合规范的 SKILL.md         |
+# |                   | url            | 必填  | 仓库 URL（skill_repos 非空时必填）                             |
+# |                   | branch         | 可选  | 扫描分支；不填写时使用仓库默认分支                               |
+# | skills[]          | -              | 可选  | 单个 Skill 登记列表；适用于只登记某个 Skill，而不是扫描整个仓库       |
+# |                   | skill_name     | 必填  | Skill 名称（skills 非空时必填）                               |
+# |                   | skill_url      | 必填  | Skill 文件的完整 URL（skills 非空时必填）                      |
+# |                   | description    | 建议  | Skill 的简要用途说明                                          |
+# |                   | category       | 可选  | Skill 所属分类；取值来自 templates/skill-spec.yaml 的 categories |
+
+organization: example
+
+organization_info:
+  display_name: Example, Inc.
+  github_profile: https://github.com/example
+  website: https://example.com
+  description: 企业或组织的简要介绍
+  public_email: contact@example.com
+  location: 城市或国家/地区
+
+author:
+  - name: 联系人姓名
+    # email: name@example.com
+    # profile: https://github.com/username
+
+# 没有仓库级登记时填写 `skill_repos: []`。
+skill_repos:
+  - url: https://github.com/example/skills
+    # branch: main
+
+# 没有单个 Skill 时填写 `skills: []`。
+skills:
+  - skill_name: skill-name
+    skill_url: https://github.com/example/skills/blob/main/skills/skill-name/SKILL.md
+    description: 用一句话说明该 Skill 的用途
+    # category: Development and Build

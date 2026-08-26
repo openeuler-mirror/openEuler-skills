@@ -1,0 +1,16 @@
+organization: browser-use
+organization_info:
+  display_name: Browser Use
+  github_profile: https://github.com/browser-use
+  website: https://browser-use.com
+  description: null
+  public_email: null
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/browser-use/browser-use
+- url: https://github.com/browser-use/video-use
+- url: https://github.com/browser-use/browser-harness
+- url: https://github.com/browser-use/browser-harness-js
+- url: https://github.com/browser-use/browsercode
+skills: []

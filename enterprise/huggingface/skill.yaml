@@ -1,0 +1,20 @@
+organization: huggingface
+organization_info:
+  display_name: Hugging Face
+  github_profile: https://github.com/huggingface
+  website: https://huggingface.co/
+  description: The AI community building the future.
+  public_email: null
+  location: NYC + Paris
+author: []
+skill_repos:
+- url: https://github.com/huggingface/skills
+- url: https://github.com/huggingface/kernels
+- url: https://github.com/huggingface/chat-ui
+- url: https://github.com/huggingface/prime-rl
+- url: https://github.com/huggingface/transformers
+- url: https://github.com/huggingface/upskill
+- url: https://github.com/huggingface/huggingface_hub
+- url: https://github.com/huggingface/trl
+- url: https://github.com/huggingface/diffusers
+skills: []

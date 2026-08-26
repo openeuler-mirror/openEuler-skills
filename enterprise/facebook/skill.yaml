@@ -1,0 +1,16 @@
+organization: facebook
+organization_info:
+  display_name: Meta
+  github_profile: https://github.com/facebook
+  website: https://opensource.fb.com
+  description: 'We are working to build community through open source technology. NB: members must have two-factor auth.'
+  public_email: null
+  location: Menlo Park, California
+author: []
+skill_repos:
+- url: https://github.com/facebook/react
+- url: https://github.com/facebook/hermes
+- url: https://github.com/facebook/relay
+- url: https://github.com/facebook/meta-wearables-dat-ios
+- url: https://github.com/facebook/buck2
+skills: []

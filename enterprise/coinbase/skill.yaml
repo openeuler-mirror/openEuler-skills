@@ -1,0 +1,13 @@
+organization: coinbase
+organization_info:
+  display_name: Coinbase
+  github_profile: https://github.com/coinbase
+  website: https://www.coinbase.com
+  description: null
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/coinbase/agentic-wallet-skills
+- url: https://github.com/coinbase/cds
+skills: []

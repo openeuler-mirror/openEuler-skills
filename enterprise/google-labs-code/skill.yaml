@@ -1,0 +1,15 @@
+organization: google-labs-code
+organization_info:
+  display_name: Google Labs Code
+  github_profile: https://github.com/google-labs-code
+  website: null
+  description: null
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/google-labs-code/stitch-skills
+- url: https://github.com/google-labs-code/jules-skills
+- url: https://github.com/google-labs-code/stitch-sdk
+- url: https://github.com/google-labs-code/design.md
+skills: []

@@ -1,0 +1,17 @@
+organization: apify
+organization_info:
+  display_name: Apify
+  github_profile: https://github.com/apify
+  website: https://apify.com/
+  description: Put the web to work.
+  public_email: hello@apify.com
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/apify/agent-skills
+- url: https://github.com/apify/awesome-skills
+- url: https://github.com/apify/apify-mcp-server
+- url: https://github.com/apify/mcpc
+- url: https://github.com/apify/actors-mcp-server
+- url: https://github.com/apify/apify-claude-code-plugin
+skills: []

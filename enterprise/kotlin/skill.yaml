@@ -1,0 +1,12 @@
+organization: kotlin
+organization_info:
+  display_name: Kotlin
+  github_profile: https://github.com/Kotlin
+  website: https://kotlinlang.org
+  description: Kotlin Tools and Libraries
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/kotlin/kotlin-agent-skills
+skills: []

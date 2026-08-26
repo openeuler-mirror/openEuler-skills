@@ -1,0 +1,18 @@
+organization: neondatabase
+organization_info:
+  display_name: neondatabase
+  github_profile: https://github.com/neondatabase
+  website: https://neon.tech
+  description: null
+  public_email: null
+  location: null
+author: []
+skill_repos:
+- url: https://github.com/neondatabase/agent-skills
+- url: https://github.com/neondatabase/ai-rules
+- url: https://github.com/neondatabase/postgres-skills
+- url: https://github.com/neondatabase/neon-js
+- url: https://github.com/neondatabase/mcp-server-neon
+- url: https://github.com/neondatabase/better-env
+- url: https://github.com/neondatabase/neon-for-agent-platforms
+skills: []

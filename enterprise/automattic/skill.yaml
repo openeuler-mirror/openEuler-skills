@@ -1,0 +1,17 @@
+organization: automattic
+organization_info:
+  display_name: Automattic
+  github_profile: https://github.com/Automattic
+  website: https://automattic.com
+  description: We are passionate about making the web a better place.
+  public_email: null
+  location: Worldwide
+author: []
+skill_repos:
+- url: https://github.com/automattic/agent-skills
+- url: https://github.com/automattic/wordpress-activitypub
+- url: https://github.com/automattic/wordpress-agent-skills
+- url: https://github.com/automattic/wp-calypso
+- url: https://github.com/automattic/studio
+- url: https://github.com/automattic/radical-pipelines
+skills: []

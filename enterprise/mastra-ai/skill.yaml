@@ -1,0 +1,13 @@
+organization: mastra-ai
+organization_info:
+  display_name: Mastra
+  github_profile: https://github.com/mastra-ai
+  website: https://mastra.ai
+  description: Build agents with a modern TypeScript stack. Mastra is an all-in-one framework for building AI-powered applications and agents.
+  public_email: null
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/mastra-ai/skills
+- url: https://github.com/mastra-ai/mastra
+skills: []

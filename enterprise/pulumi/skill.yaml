@@ -1,0 +1,12 @@
+organization: pulumi
+organization_info:
+  display_name: Pulumi
+  github_profile: https://github.com/pulumi
+  website: https://pulumi.com/
+  description: null
+  public_email: team@pulumi.com
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/pulumi/agent-skills
+skills: []

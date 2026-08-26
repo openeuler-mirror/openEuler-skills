@@ -1,0 +1,12 @@
+organization: box
+organization_info:
+  display_name: Box
+  github_profile: https://github.com/box
+  website: https://box.com
+  description: Box, Inc.
+  public_email: oss@box.com
+  location: Redwood City, CA
+author: []
+skill_repos:
+- url: https://github.com/box/box-for-ai
+skills: []

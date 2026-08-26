@@ -1,0 +1,14 @@
+organization: supabase
+organization_info:
+  display_name: Supabase
+  github_profile: https://github.com/supabase
+  website: https://supabase.com
+  description: The Postgres Development Platform.
+  public_email: support@supabase.io
+  location: United States of America
+author: []
+skill_repos:
+- url: https://github.com/supabase/agent-skills
+- url: https://github.com/supabase/supabase
+- url: https://github.com/supabase/server
+skills: []

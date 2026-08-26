@@ -1,0 +1,21 @@
+organization: upstash
+organization_info:
+  display_name: Upstash
+  github_profile: https://github.com/upstash
+  website: https://upstash.com
+  description: Serverless Data Platform
+  public_email: support@upstash.com
+  location: California
+author: []
+skill_repos:
+- url: https://github.com/upstash/context7
+- url: https://github.com/upstash/skills
+- url: https://github.com/upstash/redis-js
+- url: https://github.com/upstash/context7-mcp
+- url: https://github.com/upstash/ratelimit-js
+- url: https://github.com/upstash/qstash-js
+- url: https://github.com/upstash/workflow-js
+- url: https://github.com/upstash/upstash-redis
+- url: https://github.com/upstash/vector-js
+- url: https://github.com/upstash/search-js
+skills: []
