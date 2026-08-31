@@ -17,7 +17,6 @@ skill_repos:
 - url: https://github.com/vercel-labs/portless
 - url: https://github.com/vercel-labs/next-browser
 - url: https://github.com/vercel-labs/ai
-- url: https://github.com/vercel-labs/claude-skills
 - url: https://github.com/vercel-labs/before-and-after
 - url: https://github.com/vercel-labs/emulate
 - url: https://github.com/vercel-labs/agent-eval
