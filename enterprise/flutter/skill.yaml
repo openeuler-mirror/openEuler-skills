@@ -11,4 +11,5 @@ skill_repos:
 - url: https://github.com/flutter/skills
 - url: https://github.com/flutter/flutter
 - url: https://github.com/flutter/genui
+- url: https://github.com/flutter/website
 skills: []

@@ -10,6 +10,7 @@ author: []
 skill_repos:
 - url: https://github.com/posthog/skills
 - url: https://github.com/posthog/ai-plugin
+- url: https://github.com/posthog/posthog
 - url: https://github.com/posthog/posthog-for-claude
 - url: https://github.com/posthog/context-mill
 - url: https://github.com/posthog/duckgres
