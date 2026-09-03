@@ -9,6 +9,5 @@ organization_info:
 author: []
 skill_repos:
 - url: https://github.com/coderabbitai/skills
-- url: https://github.com/coderabbitai/claude-plugin
 - url: https://github.com/coderabbitai/codex-plugin
 skills: []
