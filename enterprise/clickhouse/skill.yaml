@@ -9,6 +9,7 @@ organization_info:
 author: []
 skill_repos:
 - url: https://github.com/clickhouse/agent-skills
+- url: https://github.com/clickhouse/clickhouse
 - url: https://github.com/clickhouse/clickhouse-js
 - url: https://github.com/clickhouse/clickhouse-claude-code-plugin
 skills: []
