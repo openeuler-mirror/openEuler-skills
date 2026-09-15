@@ -1,11 +1,10 @@
 organization: temporalio
-organization_info:
-  display_name: temporal.io
-  github_profile: https://github.com/temporalio
-  website: https://temporal.io
-  description: Open source durable execution system. Write code that’s fault tolerant, durable, and simple.
-  public_email: null
-  location: Bellevue
+display_name: temporal.io
+git_profile: https://github.com/temporalio
+website: https://temporal.io
+description: Open source durable execution system. Write code that’s fault tolerant, durable, and simple.
+public_email: null
+location: Bellevue
 author: []
 skill_repos:
 - url: https://github.com/temporalio/skill-temporal-developer

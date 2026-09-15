@@ -1,11 +1,10 @@
 organization: brave
-organization_info:
-  display_name: Brave Software
-  github_profile: https://github.com/brave
-  website: https://brave.com
-  description: We're reinventing the browser as a user-first platform for speed, privacy, better ads, and beyond
-  public_email: null
-  location: San Francisco
+display_name: Brave Software
+git_profile: https://github.com/brave
+website: https://brave.com
+description: We're reinventing the browser as a user-first platform for speed, privacy, better ads, and beyond
+public_email: null
+location: San Francisco
 author: []
 skill_repos:
 - url: https://github.com/brave/brave-search-skills

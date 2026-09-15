@@ -1,11 +1,10 @@
 organization: bitwarden
-organization_info:
-  display_name: Bitwarden
-  github_profile: https://github.com/bitwarden
-  website: https://bitwarden.com
-  description: Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations.
-  public_email: hello@bitwarden.com
-  location: Earth
+display_name: Bitwarden
+git_profile: https://github.com/bitwarden
+website: https://bitwarden.com
+description: Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations.
+public_email: hello@bitwarden.com
+location: Earth
 author: []
 skill_repos:
 - url: https://github.com/bitwarden/ai-plugins

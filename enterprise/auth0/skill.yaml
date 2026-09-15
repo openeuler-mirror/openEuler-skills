@@ -1,11 +1,10 @@
 organization: auth0
-organization_info:
-  display_name: Auth0
-  github_profile: https://github.com/auth0
-  website: https://auth0.com
-  description: null
-  public_email: hello@auth0.com
-  location: Seattle
+display_name: Auth0
+git_profile: https://github.com/auth0
+website: https://auth0.com
+description: null
+public_email: hello@auth0.com
+location: Seattle
 author: []
 skill_repos:
 - url: https://github.com/auth0/agent-skills

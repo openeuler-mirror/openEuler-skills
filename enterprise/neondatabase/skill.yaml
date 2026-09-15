@@ -1,11 +1,10 @@
 organization: neondatabase
-organization_info:
-  display_name: neondatabase
-  github_profile: https://github.com/neondatabase
-  website: https://neon.tech
-  description: null
-  public_email: null
-  location: null
+display_name: neondatabase
+git_profile: https://github.com/neondatabase
+website: https://neon.tech
+description: null
+public_email: null
+location: null
 author: []
 skill_repos:
 - url: https://github.com/neondatabase/agent-skills

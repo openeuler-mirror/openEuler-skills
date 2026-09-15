@@ -1,11 +1,10 @@
 organization: tldraw
-organization_info:
-  display_name: tldraw
-  github_profile: https://github.com/tldraw
-  website: https://tldraw.com
-  description: Infinite canvas SDK.
-  public_email: hello@tldraw.com
-  location: United Kingdom
+display_name: tldraw
+git_profile: https://github.com/tldraw
+website: https://tldraw.com
+description: Infinite canvas SDK.
+public_email: hello@tldraw.com
+location: United Kingdom
 author: []
 skill_repos:
 - url: https://github.com/tldraw/tldraw

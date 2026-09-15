@@ -1,11 +1,10 @@
 organization: figma
-organization_info:
-  display_name: Figma
-  github_profile: https://github.com/figma
-  website: https://www.figma.com
-  description: Collaborative interface design tool
-  public_email: support@figma.com
-  location: San Francisco, CA
+display_name: Figma
+git_profile: https://github.com/figma
+website: https://www.figma.com
+description: Collaborative interface design tool
+public_email: support@figma.com
+location: San Francisco, CA
 author: []
 skill_repos:
 - url: https://github.com/figma/mcp-server-guide

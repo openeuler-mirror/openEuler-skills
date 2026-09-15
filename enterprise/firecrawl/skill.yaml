@@ -1,11 +1,10 @@
 organization: firecrawl
-organization_info:
-  display_name: Firecrawl
-  github_profile: https://github.com/firecrawl
-  website: https://firecrawl.dev
-  description: Web data API for AI
-  public_email: hello@firecrawl.dev
-  location: United States of America
+display_name: Firecrawl
+git_profile: https://github.com/firecrawl
+website: https://firecrawl.dev
+description: Web data API for AI
+public_email: hello@firecrawl.dev
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/firecrawl/cli

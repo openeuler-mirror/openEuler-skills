@@ -15,13 +15,12 @@
 # | 一级字段          | 二级字段       | 必填  | 说明                                                            |
 # | ----------------- | -------------- | ----- | ------------------------------------------------------------- |
 # | organization      | -              | 必填  | 企业或组织的唯一标识；建议与 GitHub owner 一致，如 anthropics     |
-# | organization_info | -              | 必填  | 企业公开信息；建议通过 GitHub 公共 API 或企业官网核实后填写        |
-# |                   | display_name   | 必填  | 企业显示名称                                                   |
-# |                   | github_profile | 必填  | GitHub 组织或用户主页                                          |
-# |                   | website        | 可选  | 企业官网；未公开时填写 null                                     |
-# |                   | description    | 可选  | 企业简介；建议使用一到两句话客观描述                             |
-# |                   | public_email   | 可选  | 企业公开联系邮箱；未公开时填写 null                             |
-# |                   | location       | 可选  | 企业或组织所在地；未公开时填写 null                             |
+# | display_name     | -              | 必填  | 企业显示名称；建议通过 GitHub 公共 API 或企业官网核实后填写        |
+# | git_profile      | -              | 必填  | 代码托管平台上的组织或用户主页                                  |
+# | website          | -              | 可选  | 企业官网；未公开时填写 null                                     |
+# | description      | -              | 可选  | 企业简介；建议使用一到两句话客观描述                             |
+# | public_email     | -              | 可选  | 企业公开联系邮箱；未公开时填写 null                             |
+# | location         | -              | 可选  | 企业或组织所在地；未公开时填写 null                             |
 # | author[]          | -              | 可选  | 联系人信息列表；没有明确公开的维护联系人时填写 `author: []`          |
 # |                   | name           | 必填* | 联系人姓名（author 非空时必填）                                |
 # |                   | email          | 可选  | 联系邮箱；请确认愿意公开后再填写                                |
@@ -36,14 +35,12 @@
 # |                   | category       | 可选  | Skill 所属分类；取值来自 templates/skill-spec.yaml 的 categories |
 
 organization: example
-
-organization_info:
-  display_name: Example, Inc.
-  github_profile: https://github.com/example
-  website: https://example.com
-  description: 企业或组织的简要介绍
-  public_email: contact@example.com
-  location: 城市或国家/地区
+display_name: Example, Inc.
+git_profile: https://github.com/example
+website: https://example.com
+description: 企业或组织的简要介绍
+public_email: contact@example.com
+location: 城市或国家/地区
 
 author:
   - name: 联系人姓名

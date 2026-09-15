@@ -1,11 +1,10 @@
 organization: better-auth
-organization_info:
-  display_name: Better Auth
-  github_profile: https://github.com/better-auth
-  website: https://better-auth.com
-  description: The most comprehensive authentication framework
-  public_email: contact@better-auth.com
-  location: null
+display_name: Better Auth
+git_profile: https://github.com/better-auth
+website: https://better-auth.com
+description: The most comprehensive authentication framework
+public_email: contact@better-auth.com
+location: null
 author: []
 skill_repos:
 - url: https://github.com/better-auth/skills

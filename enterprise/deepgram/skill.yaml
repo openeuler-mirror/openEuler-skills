@@ -1,11 +1,10 @@
 organization: deepgram
-organization_info:
-  display_name: Deepgram
-  github_profile: https://github.com/deepgram
-  website: https://www.deepgram.com
-  description: null
-  public_email: null
-  location: San Francisco, CA
+display_name: Deepgram
+git_profile: https://github.com/deepgram
+website: https://www.deepgram.com
+description: null
+public_email: null
+location: San Francisco, CA
 author: []
 skill_repos:
 - url: https://github.com/deepgram/skills

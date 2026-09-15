@@ -1,11 +1,10 @@
 organization: huggingface
-organization_info:
-  display_name: Hugging Face
-  github_profile: https://github.com/huggingface
-  website: https://huggingface.co/
-  description: The AI community building the future.
-  public_email: null
-  location: NYC + Paris
+display_name: Hugging Face
+git_profile: https://github.com/huggingface
+website: https://huggingface.co/
+description: The AI community building the future.
+public_email: null
+location: NYC + Paris
 author: []
 skill_repos:
 - url: https://github.com/huggingface/skills

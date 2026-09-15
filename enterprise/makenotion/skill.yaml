@@ -1,11 +1,10 @@
 organization: makenotion
-organization_info:
-  display_name: Notion
-  github_profile: https://github.com/makenotion
-  website: https://www.notion.so
-  description: '"We shape our tools, thereafter our tools shape us"'
-  public_email: team@makenotion.com
-  location: United States of America
+display_name: Notion
+git_profile: https://github.com/makenotion
+website: https://www.notion.so
+description: '"We shape our tools, thereafter our tools shape us"'
+public_email: team@makenotion.com
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/makenotion/skills

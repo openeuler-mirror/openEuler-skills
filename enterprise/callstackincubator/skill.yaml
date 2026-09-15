@@ -1,11 +1,10 @@
 organization: callstackincubator
-organization_info:
-  display_name: Callstack Incubator
-  github_profile: https://github.com/callstackincubator
-  website: https://callstack.com
-  description: We don't follow best practices, we set them. This is where it happens.
-  public_email: null
-  location: Worldwide
+display_name: Callstack Incubator
+git_profile: https://github.com/callstackincubator
+website: https://callstack.com
+description: We don't follow best practices, we set them. This is where it happens.
+public_email: null
+location: Worldwide
 author: []
 skill_repos:
 - url: https://github.com/callstackincubator/agent-skills

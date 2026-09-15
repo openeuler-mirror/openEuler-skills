@@ -1,11 +1,10 @@
 organization: triggerdotdev
-organization_info:
-  display_name: Trigger.dev
-  github_profile: https://github.com/triggerdotdev
-  website: https://trigger.dev
-  description: null
-  public_email: hello@trigger.dev
-  location: United Kingdom
+display_name: Trigger.dev
+git_profile: https://github.com/triggerdotdev
+website: https://trigger.dev
+description: null
+public_email: hello@trigger.dev
+location: United Kingdom
 author: []
 skill_repos:
 - url: https://github.com/triggerdotdev/skills

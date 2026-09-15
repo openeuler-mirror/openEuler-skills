@@ -1,11 +1,10 @@
 organization: astronomer
-organization_info:
-  display_name: Astronomer
-  github_profile: https://github.com/astronomer
-  website: https://astronomer.io
-  description: Modern Data Orchestration, powered by Apache Airflow
-  public_email: null
-  location: Globally distributed
+display_name: Astronomer
+git_profile: https://github.com/astronomer
+website: https://astronomer.io
+description: Modern Data Orchestration, powered by Apache Airflow
+public_email: null
+location: Globally distributed
 author: []
 skill_repos:
 - url: https://github.com/astronomer/agents

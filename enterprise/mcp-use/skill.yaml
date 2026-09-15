@@ -1,11 +1,10 @@
 organization: mcp-use
-organization_info:
-  display_name: Manufact
-  github_profile: https://github.com/mcp-use
-  website: https://manufact.com
-  description: Manufact is the cloud platform for Model Context Protocol. We open-sourced mcp-use, the fullstack framework to build MCP Servers & MCP Apps for ChatGPT / Claude
-  public_email: dev@manufact.com
-  location: United States of America
+display_name: Manufact
+git_profile: https://github.com/mcp-use
+website: https://manufact.com
+description: Manufact is the cloud platform for Model Context Protocol. We open-sourced mcp-use, the fullstack framework to build MCP Servers & MCP Apps for ChatGPT / Claude
+public_email: dev@manufact.com
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/mcp-use/mcp-use

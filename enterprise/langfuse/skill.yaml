@@ -1,11 +1,10 @@
 organization: langfuse
-organization_info:
-  display_name: Langfuse
-  github_profile: https://github.com/langfuse
-  website: https://langfuse.com
-  description: Open source AI engineering platform. Debug, analyze and iterate together.
-  public_email: contact@langfuse.com
-  location: null
+display_name: Langfuse
+git_profile: https://github.com/langfuse
+website: https://langfuse.com
+description: Open source AI engineering platform. Debug, analyze and iterate together.
+public_email: contact@langfuse.com
+location: null
 author: []
 skill_repos:
 - url: https://github.com/langfuse/skills

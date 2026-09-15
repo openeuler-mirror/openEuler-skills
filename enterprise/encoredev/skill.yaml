@@ -1,11 +1,10 @@
 organization: encoredev
-organization_info:
-  display_name: Encore
-  github_profile: https://github.com/encoredev
-  website: https://encore.dev
-  description: null
-  public_email: support@encore.dev
-  location: Sweden
+display_name: Encore
+git_profile: https://github.com/encoredev
+website: https://encore.dev
+description: null
+public_email: support@encore.dev
+location: Sweden
 author: []
 skill_repos:
 - url: https://github.com/encoredev/skills

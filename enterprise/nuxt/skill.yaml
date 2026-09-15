@@ -1,11 +1,10 @@
 organization: nuxt
-organization_info:
-  display_name: Nuxt
-  github_profile: https://github.com/nuxt
-  website: https://nuxt.com
-  description: The Intuitive Vue Framework
-  public_email: null
-  location: Global
+display_name: Nuxt
+git_profile: https://github.com/nuxt
+website: https://nuxt.com
+description: The Intuitive Vue Framework
+public_email: null
+location: Global
 author: []
 skill_repos:
 - url: https://github.com/nuxt/ui

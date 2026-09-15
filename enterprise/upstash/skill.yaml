@@ -1,11 +1,10 @@
 organization: upstash
-organization_info:
-  display_name: Upstash
-  github_profile: https://github.com/upstash
-  website: https://upstash.com
-  description: Serverless Data Platform
-  public_email: support@upstash.com
-  location: California
+display_name: Upstash
+git_profile: https://github.com/upstash
+website: https://upstash.com
+description: Serverless Data Platform
+public_email: support@upstash.com
+location: California
 author: []
 skill_repos:
 - url: https://github.com/upstash/context7

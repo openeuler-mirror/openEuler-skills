@@ -1,11 +1,10 @@
 organization: dagster-io
-organization_info:
-  display_name: Dagster
-  github_profile: https://github.com/dagster-io
-  website: https://dagster.io/
-  description: An orchestration platform for the development, production, and observation of data assets.
-  public_email: null
-  location: San Francisco, CA
+display_name: Dagster
+git_profile: https://github.com/dagster-io
+website: https://dagster.io/
+description: An orchestration platform for the development, production, and observation of data assets.
+public_email: null
+location: San Francisco, CA
 author: []
 skill_repos:
 - url: https://github.com/dagster-io/skills

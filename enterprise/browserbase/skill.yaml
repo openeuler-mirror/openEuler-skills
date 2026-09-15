@@ -1,11 +1,10 @@
 organization: browserbase
-organization_info:
-  display_name: browserbase
-  github_profile: https://github.com/browserbase
-  website: https://www.browserbase.com
-  description: null
-  public_email: null
-  location: United States of America
+display_name: browserbase
+git_profile: https://github.com/browserbase
+website: https://www.browserbase.com
+description: null
+public_email: null
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/browserbase/skills

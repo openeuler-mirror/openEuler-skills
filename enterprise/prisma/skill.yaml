@@ -1,11 +1,10 @@
 organization: prisma
-organization_info:
-  display_name: Prisma
-  github_profile: https://github.com/prisma
-  website: https://www.prisma.io
-  description: Prisma makes working with databases easy
-  public_email: hello@prisma.io
-  location: United States of America
+display_name: Prisma
+git_profile: https://github.com/prisma
+website: https://www.prisma.io
+description: Prisma makes working with databases easy
+public_email: hello@prisma.io
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/prisma/skills

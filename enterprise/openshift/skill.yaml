@@ -1,11 +1,10 @@
 organization: openshift
-organization_info:
-  display_name: OpenShift
-  github_profile: https://github.com/openshift
-  website: https://openshift.com
-  description: The developer and operations friendly Kubernetes distro
-  public_email: null
-  location: null
+display_name: OpenShift
+git_profile: https://github.com/openshift
+website: https://openshift.com
+description: The developer and operations friendly Kubernetes distro
+public_email: null
+location: null
 author: []
 skill_repos:
 - url: https://github.com/openshift/hypershift

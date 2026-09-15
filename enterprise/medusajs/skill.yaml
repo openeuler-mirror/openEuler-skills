@@ -1,11 +1,10 @@
 organization: medusajs
-organization_info:
-  display_name: Medusa
-  github_profile: https://github.com/medusajs
-  website: https://medusajs.com
-  description: Building blocks for digital commerce
-  public_email: support@medusajs.com
-  location: United States of America
+display_name: Medusa
+git_profile: https://github.com/medusajs
+website: https://medusajs.com
+description: Building blocks for digital commerce
+public_email: support@medusajs.com
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/medusajs/medusa-agent-skills

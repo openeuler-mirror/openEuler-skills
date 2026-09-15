@@ -1,11 +1,10 @@
 organization: resend
-organization_info:
-  display_name: Resend
-  github_profile: https://github.com/resend
-  website: https://resend.com
-  description: Email for developers
-  public_email: team@resend.com
-  location: null
+display_name: Resend
+git_profile: https://github.com/resend
+website: https://resend.com
+description: Email for developers
+public_email: team@resend.com
+location: null
 author: []
 skill_repos:
 - url: https://github.com/resend/resend-skills

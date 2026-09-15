@@ -1,11 +1,10 @@
 organization: microsoft
-organization_info:
-  display_name: Microsoft
-  github_profile: https://github.com/microsoft
-  website: https://opensource.microsoft.com
-  description: Open source projects and samples from Microsoft
-  public_email: opensource@microsoft.com
-  location: Redmond, WA
+display_name: Microsoft
+git_profile: https://github.com/microsoft
+website: https://opensource.microsoft.com
+description: Open source projects and samples from Microsoft
+public_email: opensource@microsoft.com
+location: Redmond, WA
 author: []
 skill_repos:
 - url: https://github.com/microsoft/azure-skills

@@ -1,11 +1,10 @@
 organization: github
-organization_info:
-  display_name: GitHub
-  github_profile: https://github.com/github
-  website: https://github.com/about
-  description: How people build software.
-  public_email: null
-  location: United States of America
+display_name: GitHub
+git_profile: https://github.com/github
+website: https://github.com/about
+description: How people build software.
+public_email: null
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/github/awesome-copilot

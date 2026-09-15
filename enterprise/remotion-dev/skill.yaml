@@ -1,11 +1,10 @@
 organization: remotion-dev
-organization_info:
-  display_name: Remotion
-  github_profile: https://github.com/remotion-dev
-  website: https://remotion.dev
-  description: Make videos programmatically
-  public_email: hi@remotion.dev
-  location: null
+display_name: Remotion
+git_profile: https://github.com/remotion-dev
+website: https://remotion.dev
+description: Make videos programmatically
+public_email: hi@remotion.dev
+location: null
 author: []
 skill_repos:
 - url: https://github.com/remotion-dev/skills

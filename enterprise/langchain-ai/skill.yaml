@@ -1,11 +1,10 @@
 organization: langchain-ai
-organization_info:
-  display_name: LangChain
-  github_profile: https://github.com/langchain-ai
-  website: https://www.langchain.com
-  description: null
-  public_email: support@langchain.dev
-  location: United States of America
+display_name: LangChain
+git_profile: https://github.com/langchain-ai
+website: https://www.langchain.com
+description: null
+public_email: support@langchain.dev
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/langchain-ai/langchain-skills
