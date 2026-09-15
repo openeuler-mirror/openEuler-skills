@@ -1,5 +1,6 @@
 name: sig-OpenDesign
 description: The OpenDesign team is responsible for user experience of the openEuler community.
+website: https://www.openeuler.org/zh/sig/sig-OpenDesign
 skill_repos:
 - url: https://gitcode.com/openeuler/docs-website
 - url: https://gitcode.com/openeuler/opendesign-components
