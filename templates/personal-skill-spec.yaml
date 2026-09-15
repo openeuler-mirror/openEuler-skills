@@ -22,7 +22,7 @@
 # | 一级字段      | 二级字段     | 必填 | 说明                                       |
 # | ------------- | ------------ | ---- | ------------------------------------------ |
 # | author        | -            | 必填 | 作者显示名称（用户名或姓名）               |
-# | bio           | -            | 可选 | 作者简介                                   |
+# | description   | -            | 可选 | 作者简介                                   |
 # | profile       | -            | 可选 | 作者在代码托管平台上的公开主页             |
 # | website       | -            | 可选 | 作者个人网站或博客                         |
 # | email         | -            | 可选 | 作者公开联系邮箱；请确认愿意公开后再填写   |
@@ -38,7 +38,7 @@
 # |               | category     | 可选 | Skill 所属分类；取值来自 templates/skill-spec.yaml 的 categories |
 
 author: 用户名或姓名
-# bio: openEuler 社区开发者，关注智能体与操作系统技术。
+# description: openEuler 社区开发者，关注智能体与操作系统技术。
 # profile: https://gitcode.com/用户名
 # website: https://example.com
 # email: name@example.com
