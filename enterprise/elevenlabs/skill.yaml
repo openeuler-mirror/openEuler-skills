@@ -1,11 +1,10 @@
 organization: elevenlabs
-organization_info:
-  display_name: ElevenLabs
-  github_profile: https://github.com/elevenlabs
-  website: https://elevenlabs.io
-  description: 'Research Lab. Exploring new frontiers of voice generation. '
-  public_email: developers@elevenlabs.io
-  location: null
+display_name: ElevenLabs
+git_profile: https://github.com/elevenlabs
+website: https://elevenlabs.io
+description: 'Research Lab. Exploring new frontiers of voice generation. '
+public_email: developers@elevenlabs.io
+location: null
 author: []
 skill_repos:
 - url: https://github.com/elevenlabs/skills

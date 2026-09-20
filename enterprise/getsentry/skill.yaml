@@ -1,11 +1,10 @@
 organization: getsentry
-organization_info:
-  display_name: Sentry
-  github_profile: https://github.com/getsentry
-  website: https://sentry.io
-  description: Real-time crash reporting for your web apps, mobile apps, and games.
-  public_email: support@sentry.io
-  location: United States of America
+display_name: Sentry
+git_profile: https://github.com/getsentry
+website: https://sentry.io
+description: Real-time crash reporting for your web apps, mobile apps, and games.
+public_email: support@sentry.io
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/getsentry/skills

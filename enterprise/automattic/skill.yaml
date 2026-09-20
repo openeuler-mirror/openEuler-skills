@@ -1,11 +1,10 @@
 organization: automattic
-organization_info:
-  display_name: Automattic
-  github_profile: https://github.com/Automattic
-  website: https://automattic.com
-  description: We are passionate about making the web a better place.
-  public_email: null
-  location: Worldwide
+display_name: Automattic
+git_profile: https://github.com/Automattic
+website: https://automattic.com
+description: We are passionate about making the web a better place.
+public_email: null
+location: Worldwide
 author: []
 skill_repos:
 - url: https://github.com/automattic/agent-skills

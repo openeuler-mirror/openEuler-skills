@@ -1,5 +1,6 @@
-name: sig-intelligence
+author: sig-intelligence
 description: sig-intelligence is a working group dedicated to incubating intelligent agent applications and toolchains, with a vision to integrate intelligent operating systems, expedite the dissemination of AI technologies, and advance explorations in their applications.
+website: https://www.openeuler.org/zh/sig/sig-intelligence
 skill_repos:
 - url: https://gitcode.com/openeuler/agent-insight
 - url: https://gitcode.com/openeuler/mcp-servers

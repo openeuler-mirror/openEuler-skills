@@ -1,5 +1,6 @@
-name: sig-UB-ServiceCore
+author: sig-UB-ServiceCore
 description: sig-UB-ServiceCore is responsible for the evolution and maintenance of the UB ServiceCore in the community.
+website: https://www.openeuler.org/zh/sig/sig-UB-ServiceCore
 skill_repos:
 - url: https://gitcode.com/openeuler/ubs-comm
 - url: https://gitcode.com/openeuler/ubs-engine

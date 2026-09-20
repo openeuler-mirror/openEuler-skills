@@ -1,11 +1,10 @@
 organization: contentstack
-organization_info:
-  display_name: Contentstack
-  github_profile: https://github.com/contentstack
-  website: https://www.contentstack.com/
-  description: API-First Headless Content Management System
-  public_email: support@contentstack.com
-  location: San Francisco
+display_name: Contentstack
+git_profile: https://github.com/contentstack
+website: https://www.contentstack.com/
+description: API-First Headless Content Management System
+public_email: support@contentstack.com
+location: San Francisco
 author: []
 skill_repos:
 - url: https://github.com/contentstack/contentstack-agent-skills

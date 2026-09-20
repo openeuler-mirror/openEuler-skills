@@ -1,5 +1,6 @@
-name: sig-embedded
+author: sig-embedded
 description: sig-embedded is working on providing openEuler Embedded covering infrastructure, key components etc..
+website: https://www.openeuler.org/zh/sig/sig-embedded
 skill_repos:
 - url: https://gitcode.com/openeuler/IB_Robot
 - url: https://gitcode.com/openeuler/mcs

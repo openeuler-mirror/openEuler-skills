@@ -1,11 +1,10 @@
 organization: redis
-organization_info:
-  display_name: Redis
-  github_profile: https://github.com/redis
-  website: https://redis.io
-  description: null
-  public_email: redis@redis.io
-  location: null
+display_name: Redis
+git_profile: https://github.com/redis
+website: https://redis.io
+description: null
+public_email: redis@redis.io
+location: null
 author: []
 skill_repos:
 - url: https://github.com/redis/agent-skills

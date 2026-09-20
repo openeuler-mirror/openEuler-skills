@@ -21,14 +21,13 @@
 # 字段说明：
 # | 一级字段      | 二级字段     | 必填 | 说明                                       |
 # | ------------- | ------------ | ---- | ------------------------------------------ |
-# | author        | -            | 必填 | 作者或维护者信息                           |
-# |               | name         | 必填 | 作者显示名称                               |
-# |               | bio          | 可选 | 作者简介                                   |
-# |               | profile      | 可选 | 作者在代码托管平台上的公开主页             |
-# |               | website      | 可选 | 作者个人网站或博客                         |
-# |               | email        | 可选 | 作者公开联系邮箱；请确认愿意公开后再填写   |
-# |               | organization | 可选 | 作者所属企业、学校、社区或其他组织         |
-# |               | location     | 可选 | 作者公开所在地                             |
+# | author        | -            | 必填 | 作者显示名称（用户名或姓名）               |
+# | description   | -            | 可选 | 作者简介                                   |
+# | git_profile   | -            | 可选 | 作者在代码托管平台上的公开主页             |
+# | website       | -            | 可选 | 作者个人网站或博客                         |
+# | email         | -            | 可选 | 作者公开联系邮箱；请确认愿意公开后再填写   |
+# | organization  | -            | 可选 | 作者所属企业、学校、社区或其他组织         |
+# | location      | -            | 可选 | 作者公开所在地                             |
 # | skill_repos[] | -            | 可选 | 仓库级 Skill 登记列表；扫描器会发现仓库中全部符合规范的 SKILL.md |
 # |               | url          | 必填 | 仓库 URL（skill_repos 非空时必填）         |
 # |               | branch       | 可选 | 扫描分支；不填写时使用仓库默认分支         |
@@ -38,14 +37,13 @@
 # |               | description  | 建议 | Skill 的简要用途说明                        |
 # |               | category     | 可选 | Skill 所属分类；取值来自 templates/skill-spec.yaml 的 categories |
 
-author:
-  name: 用户名或姓名
-  # bio: openEuler 社区开发者，关注智能体与操作系统技术。
-  # profile: https://gitcode.com/用户名
-  # website: https://example.com
-  # email: name@example.com
-  # organization: Example Organization
-  # location: 中国
+author: 用户名或姓名
+# description: openEuler 社区开发者，关注智能体与操作系统技术。
+# git_profile: https://gitcode.com/用户名
+# website: https://example.com
+# email: name@example.com
+# organization: Example Organization
+# location: 中国
 
 # 没有仓库级登记时填写 `skill_repos: []`。
 skill_repos:

@@ -1,11 +1,10 @@
 organization: dash0hq
-organization_info:
-  display_name: Dash0
-  github_profile: https://github.com/dash0hq
-  website: https://dash0.com/
-  description: null
-  public_email: null
-  location: null
+display_name: Dash0
+git_profile: https://github.com/dash0hq
+website: https://dash0.com/
+description: null
+public_email: null
+location: null
 author: []
 skill_repos:
 - url: https://github.com/dash0hq/agent-skills

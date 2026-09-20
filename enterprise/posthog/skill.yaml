@@ -1,11 +1,10 @@
 organization: posthog
-organization_info:
-  display_name: PostHog
-  github_profile: https://github.com/PostHog
-  website: https://posthog.com
-  description: The single platform to analyze, test, observe, and deploy new features
-  public_email: hey@posthog.com
-  location: San Francisco, California
+display_name: PostHog
+git_profile: https://github.com/PostHog
+website: https://posthog.com
+description: The single platform to analyze, test, observe, and deploy new features
+public_email: hey@posthog.com
+location: San Francisco, California
 author: []
 skill_repos:
 - url: https://github.com/posthog/skills

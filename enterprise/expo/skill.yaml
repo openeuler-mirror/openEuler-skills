@@ -1,11 +1,10 @@
 organization: expo
-organization_info:
-  display_name: Expo
-  github_profile: https://github.com/expo
-  website: https://expo.dev
-  description: Expo is a free and open-source platform for making universal native apps with React that run on Android, iOS, and the web.
-  public_email: support@expo.dev
-  location: United States of America
+display_name: Expo
+git_profile: https://github.com/expo
+website: https://expo.dev
+description: Expo is a free and open-source platform for making universal native apps with React that run on Android, iOS, and the web.
+public_email: support@expo.dev
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/expo/skills

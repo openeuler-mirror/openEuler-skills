@@ -1,11 +1,10 @@
 organization: clerk
-organization_info:
-  display_name: Clerk
-  github_profile: https://github.com/clerk
-  website: https://clerk.com
-  description: Clerk is a complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users.
-  public_email: hello@clerk.com
-  location: null
+display_name: Clerk
+git_profile: https://github.com/clerk
+website: https://clerk.com
+description: Clerk is a complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users.
+public_email: hello@clerk.com
+location: null
 author: []
 skill_repos:
 - url: https://github.com/clerk/skills

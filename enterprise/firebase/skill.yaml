@@ -1,11 +1,10 @@
 organization: firebase
-organization_info:
-  display_name: Firebase
-  github_profile: https://github.com/firebase
-  website: https://firebase.google.com
-  description: null
-  public_email: null
-  location: San Francisco, CA
+display_name: Firebase
+git_profile: https://github.com/firebase
+website: https://firebase.google.com
+description: null
+public_email: null
+location: San Francisco, CA
 author: []
 skill_repos:
 - url: https://github.com/firebase/agent-skills

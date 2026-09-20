@@ -1,11 +1,10 @@
 organization: vercel-labs
-organization_info:
-  display_name: Vercel Labs
-  github_profile: https://github.com/vercel-labs
-  website: https://vercel.com
-  description: Develop. Preview. Ship. Creators of Next.js.
-  public_email: support@vercel.com
-  location: null
+display_name: Vercel Labs
+git_profile: https://github.com/vercel-labs
+website: https://vercel.com
+description: Develop. Preview. Ship. Creators of Next.js.
+public_email: support@vercel.com
+location: null
 author: []
 skill_repos:
 - url: https://github.com/vercel-labs/skills

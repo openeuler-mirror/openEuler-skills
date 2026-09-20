@@ -1,11 +1,10 @@
 organization: rivet-dev
-organization_info:
-  display_name: Rivet
-  github_profile: https://github.com/rivet-dev
-  website: https://rivet.dev
-  description: Helping developers build and scale stateful workloads
-  public_email: null
-  location: United States of America
+display_name: Rivet
+git_profile: https://github.com/rivet-dev
+website: https://rivet.dev
+description: Helping developers build and scale stateful workloads
+public_email: null
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/rivet-dev/skills

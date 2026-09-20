@@ -1,11 +1,10 @@
 organization: datadog-labs
-organization_info:
-  display_name: Datadog Labs
-  github_profile: https://github.com/datadog-labs
-  website: https://datadoghq.com
-  description: Datadog Labs repositories are experimental. They are NOT covered by the Datadog MSA or terms of service, and are not supported by Datadog.
-  public_email: null
-  location: United States of America
+display_name: Datadog Labs
+git_profile: https://github.com/datadog-labs
+website: https://datadoghq.com
+description: Datadog Labs repositories are experimental. They are NOT covered by the Datadog MSA or terms of service, and are not supported by Datadog.
+public_email: null
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/datadog-labs/agent-skills

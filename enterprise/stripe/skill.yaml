@@ -1,11 +1,10 @@
 organization: stripe
-organization_info:
-  display_name: Stripe
-  github_profile: https://github.com/stripe
-  website: https://stripe.dev
-  description: null
-  public_email: support+github@stripe.com
-  location: San Francisco, CA
+display_name: Stripe
+git_profile: https://github.com/stripe
+website: https://stripe.dev
+description: null
+public_email: support+github@stripe.com
+location: San Francisco, CA
 author: []
 skill_repos:
 - url: https://github.com/stripe/ai

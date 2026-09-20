@@ -1,4 +1,5 @@
-name: Infrastructure
+author: Infrastructure
 description: The infrastructure team is responsible for system function development and maintenance of the openEuler community.
+website: https://www.openeuler.org/zh/sig/Infrastructure
 skill_repos:
 - url: https://gitcode.com/openeuler/cve-ease

@@ -1,11 +1,10 @@
 organization: runwayml
-organization_info:
-  display_name: Runway
-  github_profile: https://github.com/runwayml
-  website: https://runwayml.com
-  description: Building AI to Simulate the World
-  public_email: info@runwayml.com
-  location: New York
+display_name: Runway
+git_profile: https://github.com/runwayml
+website: https://runwayml.com
+description: Building AI to Simulate the World
+public_email: info@runwayml.com
+location: New York
 author: []
 skill_repos:
 - url: https://github.com/runwayml/skills

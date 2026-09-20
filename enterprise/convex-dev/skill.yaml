@@ -1,11 +1,10 @@
 organization: convex-dev
-organization_info:
-  display_name: Convex Foundation
-  github_profile: https://github.com/Convex-Dev
-  website: https://convex.world
-  description: Open Source development for Convex, maintained by the Convex Foundation. Contributions are welcome!
-  public_email: null
-  location: null
+display_name: Convex Foundation
+git_profile: https://github.com/Convex-Dev
+website: https://convex.world
+description: Open Source development for Convex, maintained by the Convex Foundation. Contributions are welcome!
+public_email: null
+location: null
 author: []
 skill_repos:
 - url: https://github.com/convex-dev/convex

@@ -1,11 +1,10 @@
 organization: projectopensea
-organization_info:
-  display_name: OpenSea
-  github_profile: https://github.com/ProjectOpenSea
-  website: https://opensea.io
-  description: A marketplace for the decentralized web
-  public_email: contact@opensea.io
-  location: New York City
+display_name: OpenSea
+git_profile: https://github.com/ProjectOpenSea
+website: https://opensea.io
+description: A marketplace for the decentralized web
+public_email: contact@opensea.io
+location: New York City
 author: []
 skill_repos:
 - url: https://github.com/projectopensea/opensea-skill

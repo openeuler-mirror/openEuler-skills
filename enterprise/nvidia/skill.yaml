@@ -1,11 +1,10 @@
 organization: nvidia
-organization_info:
-  display_name: NVIDIA Corporation
-  github_profile: https://github.com/NVIDIA
-  website: https://nvidia.com
-  description: null
-  public_email: null
-  location: 2788 San Tomas Expressway, Santa Clara, CA, 95051
+display_name: NVIDIA Corporation
+git_profile: https://github.com/NVIDIA
+website: https://nvidia.com
+description: null
+public_email: null
+location: 2788 San Tomas Expressway, Santa Clara, CA, 95051
 author: []
 skill_repos:
 - url: https://github.com/nvidia/skills

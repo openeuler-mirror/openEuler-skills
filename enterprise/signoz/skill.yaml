@@ -1,11 +1,10 @@
 organization: signoz
-organization_info:
-  display_name: SigNoz
-  github_profile: https://github.com/SigNoz
-  website: https://signoz.io/
-  description: Open source Observability Platform
-  public_email: dev@signoz.io
-  location: SF/Bengaluru
+display_name: SigNoz
+git_profile: https://github.com/SigNoz
+website: https://signoz.io/
+description: Open source Observability Platform
+public_email: dev@signoz.io
+location: SF/Bengaluru
 author: []
 skill_repos:
 - url: https://github.com/signoz/agent-skills

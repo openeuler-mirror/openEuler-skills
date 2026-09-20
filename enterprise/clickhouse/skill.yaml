@@ -1,11 +1,10 @@
 organization: clickhouse
-organization_info:
-  display_name: ClickHouse
-  github_profile: https://github.com/ClickHouse
-  website: https://clickhouse.com
-  description: The leading database for AI
-  public_email: feedback@clickhouse.com
-  location: United States of America
+display_name: ClickHouse
+git_profile: https://github.com/ClickHouse
+website: https://clickhouse.com
+description: The leading database for AI
+public_email: feedback@clickhouse.com
+location: United States of America
 author: []
 skill_repos:
 - url: https://github.com/clickhouse/agent-skills

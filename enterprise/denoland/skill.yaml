@@ -1,11 +1,10 @@
 organization: denoland
-organization_info:
-  display_name: Deno
-  github_profile: https://github.com/denoland
-  website: https://deno.land
-  description: Uncomplicate JavaScript
-  public_email: support@deno.com
-  location: null
+display_name: Deno
+git_profile: https://github.com/denoland
+website: https://deno.land
+description: Uncomplicate JavaScript
+public_email: support@deno.com
+location: null
 author: []
 skill_repos:
 - url: https://github.com/denoland/skills

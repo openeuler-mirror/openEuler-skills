@@ -1,11 +1,10 @@
 organization: sveltejs
-organization_info:
-  display_name: Svelte
-  github_profile: https://github.com/sveltejs
-  website: https://svelte.dev
-  description: Web development for the rest of us
-  public_email: null
-  location: pkg.devDependencies
+display_name: Svelte
+git_profile: https://github.com/sveltejs
+website: https://svelte.dev
+description: Web development for the rest of us
+public_email: null
+location: pkg.devDependencies
 author: []
 skill_repos:
 - url: https://github.com/sveltejs/ai-tools

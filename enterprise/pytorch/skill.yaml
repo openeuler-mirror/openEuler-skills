@@ -1,11 +1,10 @@
 organization: pytorch
-organization_info:
-  display_name: pytorch
-  github_profile: https://github.com/pytorch
-  website: https://pytorch.org
-  description: null
-  public_email: null
-  location: where the eigens are valued
+display_name: pytorch
+git_profile: https://github.com/pytorch
+website: https://pytorch.org
+description: null
+public_email: null
+location: where the eigens are valued
 author: []
 skill_repos:
 - url: https://github.com/pytorch/pytorch

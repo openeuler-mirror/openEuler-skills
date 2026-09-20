@@ -1,11 +1,10 @@
 organization: facebook
-organization_info:
-  display_name: Meta
-  github_profile: https://github.com/facebook
-  website: https://opensource.fb.com
-  description: 'We are working to build community through open source technology. NB: members must have two-factor auth.'
-  public_email: null
-  location: Menlo Park, California
+display_name: Meta
+git_profile: https://github.com/facebook
+website: https://opensource.fb.com
+description: 'We are working to build community through open source technology. NB: members must have two-factor auth.'
+public_email: null
+location: Menlo Park, California
 author: []
 skill_repos:
 - url: https://github.com/facebook/react
