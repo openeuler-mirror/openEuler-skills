@@ -1,0 +1,11 @@
+organization: Ascend
+display_name: Ascend
+git_profile: https://gitcode.com/Ascend
+website: https://www.hiascend.com/zh
+description: 昇腾计算产业是基于昇腾系列（HUAWEI Ascend）处理器和基础软件构建的全栈 AI计算基础设施、行业应用及服务，包括昇腾系列处理器、系列硬件、CANN（Compute Architecture for Neural Networks，异构计算架构）、AI计算框架、应用使能、开发工具链、管理运维工具、行业应用及服务等全产业链。
+public_email: null
+location: China
+author: []
+skill_repos:
+- url: https://gitcode.com/cann/cannbot-skills
+skills: []
