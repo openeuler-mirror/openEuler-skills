@@ -3,3 +3,4 @@ description: The infrastructure team is responsible for system function developm
 website: https://www.openeuler.org/zh/sig/Infrastructure
 skill_repos:
 - url: https://gitcode.com/openeuler/cve-ease
+- url: https://gitcode.com/openeuler/agent-skills

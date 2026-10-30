@@ -3,3 +3,4 @@ description: The ops team is responsible for the development and maintenance of 
 website: https://www.openeuler.org/zh/sig/sig-ops
 skill_repos:
 - url: https://gitcode.com/openeuler/PilotGo-plugin-llmops
+- url: https://gitcode.com/openeuler/kunpeng-devkit
