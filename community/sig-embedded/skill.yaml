@@ -2,10 +2,10 @@ author: sig-embedded
 description: sig-embedded is working on providing openEuler Embedded covering infrastructure, key components etc..
 website: https://www.openeuler.org/zh/sig/sig-embedded
 skill_repos:
-- url: https://gitcode.com/openeuler/IB_Robot
-- url: https://gitcode.com/openeuler/mcs
-- url: https://gitcode.com/openeuler/IBMW
-- url: https://gitcode.com/openeuler/oebuild
-- url: https://gitcode.com/openeuler/oee-func-test
-- url: https://gitcode.com/openeuler/vla-factory
-- url: https://gitcode.com/openeuler/yocto-meta-openeuler
+- url: https://atomgit.com/openeuler/IB_Robot
+- url: https://atomgit.com/openeuler/mcs
+- url: https://atomgit.com/openeuler/IBMW
+- url: https://atomgit.com/openeuler/oebuild
+- url: https://atomgit.com/openeuler/oee-func-test
+- url: https://atomgit.com/openeuler/vla-factory
+- url: https://atomgit.com/openeuler/yocto-meta-openeuler

@@ -42,12 +42,12 @@ website: https://www.openeuler.org/zh/sig/sig-example
 
 # 没有仓库级 Skill 时填写 `skill_repos: []`。
 skill_repos:
-  - url: https://gitcode.com/openeuler/example
+  - url: https://atomgit.com/openeuler/example
     # branch: master
 
 # 没有单个 Skill 时填写 `skills: []`。
 skills:
   - skill_name: skill-name
-    skill_url: https://gitcode.com/openeuler/example/blob/main/skills/skill-name/SKILL.md
+    skill_url: https://atomgit.com/openeuler/example/blob/main/skills/skill-name/SKILL.md
     description: 用一句话说明该 Skill 的用途
     # category: Development and Build

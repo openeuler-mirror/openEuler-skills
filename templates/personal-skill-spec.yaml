@@ -39,7 +39,7 @@
 
 author: 用户名或姓名
 # description: openEuler 社区开发者，关注智能体与操作系统技术。
-# git_profile: https://gitcode.com/用户名
+# git_profile: https://atomgit.com/用户名
 # website: https://example.com
 # email: name@example.com
 # organization: Example Organization
@@ -47,12 +47,12 @@ author: 用户名或姓名
 
 # 没有仓库级登记时填写 `skill_repos: []`。
 skill_repos:
-  - url: https://gitcode.com/用户名/仓库名
+  - url: https://atomgit.com/用户名/仓库名
     # branch: main
 
 # 没有单个 Skill 时填写 `skills: []`。
 skills:
   - skill_name: skill-name
-    skill_url: https://gitcode.com/用户名/仓库名/blob/main/skills/skill-name/SKILL.md
+    skill_url: https://atomgit.com/用户名/仓库名/blob/main/skills/skill-name/SKILL.md
     # description: 用于完成某类任务的 Agent Skill
     # category: Development and Build
