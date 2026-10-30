@@ -2,15 +2,20 @@ author: sig-intelligence
 description: sig-intelligence is a working group dedicated to incubating intelligent agent applications and toolchains, with a vision to integrate intelligent operating systems, expedite the dissemination of AI technologies, and advance explorations in their applications.
 website: https://www.openeuler.org/zh/sig/sig-intelligence
 skill_repos:
-- url: https://gitcode.com/openeuler/agent-insight
-- url: https://gitcode.com/openeuler/mcp-servers
-- url: https://gitcode.com/openeuler/polymind
-- url: https://gitcode.com/openeuler/skills
-- url: https://gitcode.com/openeuler/witty-diagnosis-agent
-- url: https://gitcode.com/openeuler/witty-opencode
-- url: https://gitcode.com/openeuler/witty-opentunex
-- url: https://gitcode.com/openeuler/witty-ops-cases
-- url: https://gitcode.com/openeuler/witty-profiler
-- url: https://gitcode.com/openeuler/witty-ub
-- url: https://gitcode.com/openeuler/xiaoO
-- url: https://gitcode.com/openeuler/witty-agents
+- url: https://atomgit.com/openeuler/agent-insight
+- url: https://atomgit.com/openeuler/mcp-servers
+- url: https://atomgit.com/openeuler/polymind
+- url: https://atomgit.com/openeuler/skills
+- url: https://atomgit.com/openeuler/witty-diagnosis-agent
+- url: https://atomgit.com/openeuler/witty-opencode
+- url: https://atomgit.com/openeuler/witty-opentunex
+- url: https://atomgit.com/openeuler/witty-ops-cases
+- url: https://atomgit.com/openeuler/witty-profiler
+- url: https://atomgit.com/openeuler/witty-ub
+- url: https://atomgit.com/openeuler/xiaoO
+- url: https://atomgit.com/openeuler/witty-agents
+- url: https://atomgit.com/openeuler/AgentSecurity
+- url: https://atomgit.com/openeuler/goose
+- url: https://atomgit.com/openeuler/witty-compat
+- url: https://atomgit.com/openeuler/witty-token-compressor
+- url: https://atomgit.com/openeuler/muyuan

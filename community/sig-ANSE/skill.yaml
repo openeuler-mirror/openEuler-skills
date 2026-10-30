@@ -1,0 +1,5 @@
+author: sig-ANSE
+description: ANSE (AI-Native Software Engineering) SIG focuses on AI-native software engineering for infrastructure software. It builds cross-tool, cross-project engineering methods covering requirements, design, coding, testing and release, incubates AI development tools/frameworks (with AET as the first incubation project), establishes software engineering evaluation benchmarks, and releases specifications and reference examples for AI-assisted design/coding/testing in the openEuler community.
+website: https://www.openeuler.org/zh/sig/sig-ANSE
+skill_repos:
+- url: https://atomgit.com/openeuler/agentic-engineering-team

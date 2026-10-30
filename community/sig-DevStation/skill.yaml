@@ -2,7 +2,6 @@ author: sig-DevStation
 description: DevStation SIG is dedicated to providing developers with a a better openEuler development experience
 website: https://www.openeuler.org/zh/sig/sig-DevStation
 skill_repos:
-- url: https://gitcode.com/openeuler/nvwa-cve-fixer
-- url: https://gitcode.com/openeuler/witty-framework
-- url: https://gitcode.com/openeuler/wittyhub-cli
-- url: https://gitcode.com/openeuler/openEuler-skills
+- url: https://atomgit.com/openeuler/nvwa-cve-fixer
+- url: https://atomgit.com/openeuler/wittyhub-cli
+- url: https://atomgit.com/openeuler/wittyhub

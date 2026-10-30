@@ -102,7 +102,7 @@ category: Engineering and Compilation
 license: Apache-2.0
 version: 1.0.0
 metadata:
-  repository: https://gitcode.com/openeuler/example
+  repository: https://atomgit.com/openeuler/example
 ---
 
 # RPM 构建
