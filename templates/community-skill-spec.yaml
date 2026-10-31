@@ -3,9 +3,7 @@
 # 目录结构：
 # community/
 # └── <sig_name>/
-#     ├── skill.yaml                 # 当前模板对应的 SIG 配置文件
-#     └── <skill-name>/              # 可选：单独上传的 Skill 目录
-#         └── SKILL.md
+#     └── skill.yaml                 # 当前模板对应的 SIG 配置文件
 #
 # 使用方法：
 # 1. 每个 SIG 使用独立目录：community/<sig_name>/skill.yaml。
@@ -13,8 +11,8 @@
 #    `sig/<sig_name>/sig-info.yaml` 为准，不要自行猜测。
 # 3. 官方 SIG 元数据没有提供的字段填写 null。
 # 4. `skill_repos` 用于登记整个仓库，扫描器会扫描仓库内全部 SKILL.md。
-# 5. 单个 Skill 两种登记方式任选其一：上传到当前 SIG 目录下的`<skill-name>/` 中，
-#    或通过 `skills` 登记 SKILL.md 文件 URL；
+# 5. 单个 Skill 两种登记方式任选其一：上传到仓库根目录 `skills/<skill-name>/`
+#    中并在 `local_skills` 登记，或通过 `skills` 登记 SKILL.md 文件 URL；
 # 6. 同一个仓库或 Skill URL 只登记一次。
 # 7. YAML 统一使用 2 个空格缩进，不要使用 Tab。
 #
@@ -32,6 +30,7 @@
 # |               | skill_url   | 必填 | Skill 文件的完整 URL（skills 非空时必填）                           |
 # |               | description | 建议 | Skill 的简要用途说明                                                 |
 # |               | category    | 可选 | Skill 所属分类；取值来自 templates/skill-spec.yaml 的 categories      |
+# | local_skills[]| -           | 可选 | 原文件方式贡献的 Skill 目录名列表；目录须在仓库根目录 skills/ 下        |
 
 author: sig-example
 
@@ -51,3 +50,8 @@ skills:
     skill_url: https://atomgit.com/openeuler/example/blob/main/skills/skill-name/SKILL.md
     description: 用一句话说明该 Skill 的用途
     # category: Development and Build
+
+# 没有原文件方式贡献的 Skill 时填写 `local_skills: []`。
+local_skills:
+  - skill-name
+  # - another-skill-name
