@@ -13,6 +13,7 @@ openEuler-skills/
 │   ├── community-skill-spec.yaml   # openEuler Community SIG 贡献模板
 │   ├── personal-skill-spec.yaml     # 个人作者贡献模板
 │   └── skill-spec.yaml              # 共享的 Skill 分类规范
+├── skills/<skill-name>/              # 原文件方式贡献的 Skill 原文件集合
 ├── enterprise/<企业>/skill.yaml     # 每个企业一个独立目录
 ├── community/<sig>/skill.yaml       # 每个 SIG 一个独立目录
 └── personal/<作者>/skill.yaml       # 每个作者一个独立目录
@@ -65,29 +66,39 @@ skills:
 
 ### 3. 单个 Skill 贡献（原文件方式）
 
-直接将 Skill 原文件提交到当前贡献者目录下，扫描器会扫描本仓库内全部 `SKILL.md`。无需在 `skill.yaml` 中登记。
+将 Skill 原文件统一提交到仓库根目录的 `skills/` 目录下，并在贡献者 `skill.yaml` 的 `local_skills` 字段中登记该 Skill 目录名，以标记归属。扫描器会依据各作者 `skill.yaml` 中的 `local_skills` 登记单独扫描入库。
 
 目录结构示例：
 
 ```
-enterprise/<企业>/
-├── skill.yaml                    # 贡献者配置
-└── <skill-name>/                 # Skill 目录
-    ├── SKILL.md                  # Skill 原文件（必填，文件名大小写敏感）
-    ├── references/               # 可选：参考文档
-    ├── scripts/                  # 可选：可执行脚本
-    └── assets/                   # 可选：其他资源文件
-
-community/<sig>/
-├── skill.yaml
-└── <skill-name>/
-    └── SKILL.md
-
-personal/<作者>/
-├── skill.yaml
-└── <skill-name>/
+skills/                            # 仓库根目录，统一存放所有原文件 Skill
+├── <skill-name>/                 # Skill 目录（目录名即 Skill 名，全局唯一）
+│   ├── SKILL.md                  # Skill 原文件（必填，文件名大小写敏感）
+│   ├── references/               # 可选：参考文档
+│   ├── scripts/                  # 可选：可执行脚本
+│   └── assets/                   # 可选：其他资源文件
+└── <another-skill-name>/
     └── SKILL.md
 ```
+
+在贡献者 `skill.yaml` 中登记归属：
+
+```yaml
+# 企业 / 社区 / 个人 均可使用
+local_skills:                     # 归属于当前作者的原文件 Skill 目录名列表
+  - <skill-name>
+  - <another-skill-name>
+```
+
+| 字段 | 必填 | 说明 |
+| --- | --- | --- |
+| `local_skills` | 可选 | 归属于当前作者的原文件 Skill 目录名列表；无原文件 Skill 时填写 `local_skills: []` |
+
+规则：
+
+- `local_skills` 中的每一项必须是 `skills/<目录名>/SKILL.md` 对应的目录名；目录名与 `SKILL.md` frontmatter 中的 `name` 建议保持一致。
+- 一个 Skill 目录名只能被一个作者登记，重复登记会在扫描时按先遇到的归属处理。
+- 未在任一 `skill.yaml` 的 `local_skills` 中登记的 `skills/` 目录不会被扫描入库。
 
 `SKILL.md` 的编写规范（frontmatter 字段、必填要求、分类取值等）见 [skill-spec.md](skill-spec.md)。要点：
 
@@ -114,9 +125,9 @@ personal/<作者>/
 - 统一使用 2 个空格缩进，不要使用 Tab。
 - 同一个仓库或 Skill URL 不要重复贡献。
 - 无法获取或未公开的信息：企业 / 社区填写 `null`，个人直接省略字段；不要自行猜测。
-- 空列表使用 `[]`（例如 `skill_repos: []`、`skills: []`）。
+- 空列表使用 `[]`（例如 `skill_repos: []`、`skills: []`、`local_skills: []`）。
 - 单个 `SKILL.md` 的 URL 不能填入 `skill_repos`，请使用 `skills` 列表贡献。
-- 原文件方式贡献时，Skill 目录需放在对应贡献者目录下（`<渠道>/<标识>/<skill-name>/SKILL.md`）。
+- 原文件方式贡献时，Skill 目录统一放在仓库根目录的 `skills/<skill-name>/` 下，并在作者 `skill.yaml` 的 `local_skills` 中登记归属。
 
 ## 贡献流程
 
@@ -136,7 +147,7 @@ flowchart TD
 
     F -->|仓库级| G1[在 skill.yaml 中填写 skill_repos]
     F -->|单个 Skill URL| G2[在 skill.yaml 中填写 skills]
-    F -->|单个 Skill 原文件| G3[在贡献者目录下创建<br/>&lt;skill-name&gt;/SKILL.md]
+    F -->|单个 Skill 原文件| G3[在 skills/&lt;skill-name&gt;/ 创建 SKILL.md<br/>并在 skill.yaml 的 local_skills 登记]
 
     G1 --> H[提交并创建 Pull Request]
     G2 --> H

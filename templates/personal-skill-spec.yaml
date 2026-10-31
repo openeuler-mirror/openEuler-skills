@@ -4,15 +4,13 @@
 # personal/
 # └── <作者名>/
 #     └── skill.yaml
-#     └── <skill-name>/              # 可选：单独上传的 Skill 目录
-#         └── SKILL.md
 #
 # 使用方法：
 # 1. 每位作者使用独立目录：personal/<作者名>/skill.yaml。
 # 2. 作者信息只在顶层填写一次，不需要在每个仓库中重复填写。
 # 3. `skill_repos` 用于登记整个仓库，扫描仓库内全部 SKILL.md。
-# 4. 单个 Skill 两种登记方式任选其一：上传到当前个人目录下的`<skill-name>/` 中，
-#    或通过 `skills` 登记 SKILL.md 文件 URL；
+# 4. 单个 Skill 两种登记方式任选其一：上传到仓库根目录 `skills/<skill-name>/`
+#    中并在 `local_skills` 登记，或通过 `skills` 登记 SKILL.md 文件 URL；
 # 5. `skill_repos` 和 `skills` 可以同时使用；没有对应内容时填写空数组 []。
 # 6. 同一个仓库或 Skill 不要重复登记。
 # 7. 只填写作者愿意公开的信息；未公开的信息直接省略，不要猜测。
@@ -36,6 +34,7 @@
 # |               | skill_url    | 必填 | Skill 文件的完整 URL（skills 非空时必填）   |
 # |               | description  | 建议 | Skill 的简要用途说明                        |
 # |               | category     | 可选 | Skill 所属分类；取值来自 templates/skill-spec.yaml 的 categories |
+# | local_skills[]| -            | 可选 | 原文件方式贡献的 Skill 目录名列表；目录须在仓库根目录 skills/ 下  |
 
 author: 用户名或姓名
 # description: openEuler 社区开发者，关注智能体与操作系统技术。
@@ -56,3 +55,8 @@ skills:
     skill_url: https://atomgit.com/用户名/仓库名/blob/main/skills/skill-name/SKILL.md
     # description: 用于完成某类任务的 Agent Skill
     # category: Development and Build
+
+# 没有原文件方式贡献的 Skill 时填写 `local_skills: []`。
+local_skills:
+  - skill-name
+  # - another-skill-name
