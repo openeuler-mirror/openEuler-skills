@@ -3,5 +3,5 @@ description: DevStation SIG is dedicated to providing developers with a a better
 website: https://www.openeuler.org/zh/sig/sig-DevStation
 skill_repos:
 - url: https://atomgit.com/openeuler/nvwa-cve-fixer
-- url: https://atomgit.com/openeuler/wittyhub-cli
-- url: https://atomgit.com/openeuler/wittyhub
+- url: https://atomgit.com/openeuler/skillhub-cli
+- url: https://atomgit.com/openeuler/skillhub
